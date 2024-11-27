@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <React.Fragment>
       <Init />
-      <Maps />
+      {/*<Maps />*/}
     </React.Fragment>
   );
 }

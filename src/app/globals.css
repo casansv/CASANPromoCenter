@@ -1,0 +1,9 @@
+/* src/app/globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Clase que deshabilita el scroll */
+.no-scroll {
+    overflow: hidden;
+}

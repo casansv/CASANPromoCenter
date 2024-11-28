@@ -33,7 +33,7 @@ export default function Oops() {
             <BackgroundAnimation />
 
             {/* Título principal */}
-            <div className="text-center z-10 px-4">
+            <div className="text-center z-10 px-4 mt-7">
                 <h1 className="text-4xl sm:text-5xl lg:text-7xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 animate-pulse mb-6">
                     Sitio en desarrollo
                 </h1>

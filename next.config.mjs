@@ -1,9 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    output: 'export',
+    //output: 'export',
+    //distDir: 'dist',
     //trailingSlash: true,
     //skipTrailingSlashRedirect: true,
-    distDir: 'dist',
     images: {
         unoptimized: true,
     },

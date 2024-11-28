@@ -11,31 +11,7 @@ export default function ListProduct() {
 
     // Lista de productos con nombre, imagen y enlace de reporte
     const productos = [
-                {
-            Nombre: "TEST1",
-            Imagen: "img1.png",
-            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
-        },
-        {
-            Nombre: "TEST2",
-            Imagen: "img1.png",
-            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
-        },
-        {
-            Nombre: "TEST3 PERO MODIFICADO",
-            Imagen: "img1.png",
-            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
-        },
-        {
-            Nombre: "TEST1",
-            Imagen: "img1.png",
-            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
-        },
-        {
-            Nombre: "Telefono inteligente 91",
-            Imagen: "asd1.png",
-            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
-        }
+        /* {PRODUCTOS_REPORTES} */
     ];
 
     // Filtrar productos según el nombre buscado
@@ -59,8 +35,8 @@ export default function ListProduct() {
 
     return (
         <div className="min-h-screen bg-gradient-to-r from-gray-900 via-gray-800 to-black text-white p-8">
-            <div className="container mx-auto mt-5">
-                <h1 className="text-4xl font-extrabold text-white mb-9 text-center">
+            <div className="container mx-auto">
+                <h1 className="text-4xl font-extrabold text-white mb-6 text-center">
                     Buscar Producto para Reportar
                 </h1>
 

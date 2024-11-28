@@ -132,7 +132,7 @@ export default function Maps() {
             <div className="flex flex-col justify-center items-center h-screen bg-gray-900">
 
                 {/* Título responsive, encima del mapa */}
-                <div className="text-center mb-4 px-4">
+                <div className="text-center mb-4 mt-8 px-4">
                     <div className="flex justify-center items-center space-x-2">
                         <h2 className="text-2xl font-semibold text-white md:text-3xl lg:text-4xl">
                             ¿Envío hasta donde vivo?

@@ -29,12 +29,12 @@ const product = {
 // Datos de productos relacionados con enlaces únicos
 const related_products = [
         {
-        "id": 50,
-        "name": "Funda de Edredón King Verde Salvia con Pompones Andency (3 Piezas)",
-        "price": 39.99,
-        "description": "Añade un toque de elegancia y comodidad a tu dormitorio con la funda de edredón...",
-        "image": "https://m.media-amazon.com/images/I/81mgOruo3YL._AC_SX522_.jpg",
-        "link": "/online/categoria/hogar-inteligente-y-domotica/funda-de-edredon-king-verde-salvia-con-pompones-andency-3-piezas50"
+        "id": 46,
+        "name": "Juego de 2 Apliques de Pared de Níquel Cepillado con Vidrio Transparente",
+        "price": 37.99,
+        "description": "Añade un toque moderno y sofisticado a tus espacios con el juego de 2 apliques...",
+        "image": "https://m.media-amazon.com/images/I/612R-3BVz0L._AC_SX522_.jpg",
+        "link": "/online/categoria/hogar-inteligente-y-domotica/juego-de-2-apliques-de-pared-de-niquel-cepillado-con-vidrio-transparente46"
     },
     {
         "id": 49,
@@ -53,12 +53,12 @@ const related_products = [
         "link": "/online/categoria/hogar-inteligente-y-domotica/aplique-de-pared-led-negro-de-10w-ip65-para-interior-y-exterior47"
     },
     {
-        "id": 52,
-        "name": "Mesa de Noche Furinno de Madera con Cajón, Color Espresso (2 Piezas)",
-        "price": 32.97,
-        "description": "Agrega funcionalidad y estilo a tu habitación con este set de dos mesas de noche...",
-        "image": "https://m.media-amazon.com/images/I/613ErDOuGFL._AC_SX522_.jpg",
-        "link": "/online/categoria/hogar-inteligente-y-domotica/mesa-de-noche-furinno-de-madera-con-cajon-color-espresso-2-piezas52"
+        "id": 45,
+        "name": "Máquina de Sonido y Reloj Despertador con Luz Lunar Homedics",
+        "price": 79.99,
+        "description": "Descubre una nueva forma de mejorar tu descanso con la máquina de sonido y reloj...",
+        "image": "https://m.media-amazon.com/images/I/618uiOYL1iL._AC_SX522_.jpg",
+        "link": "/online/categoria/hogar-inteligente-y-domotica/maquina-de-sonido-y-reloj-despertador-con-luz-lunar-homedics45"
     }
 ];
 

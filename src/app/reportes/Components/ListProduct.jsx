@@ -12,7 +12,7 @@ export default function ListProduct() {
     // Lista de productos con nombre, imagen y enlace de reporte
     const productos = [
                 {
-            Nombre: "Zapatos de Flamenco para Niña y Mujer 'La Señorita' - Clásicos, Cómodos y con Suela de Goma para Bailar Sevillanas",
+            Nombre: "Zapatos de Flamenco para Niña y Mujer La Señorita - Clásicos, Cómodos y con Suela de Goma para Bailar Sevillanas",
             Imagen: "https://m.media-amazon.com/images/I/414fbumth1L._AC_SX575_.jpg",
             Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
         },

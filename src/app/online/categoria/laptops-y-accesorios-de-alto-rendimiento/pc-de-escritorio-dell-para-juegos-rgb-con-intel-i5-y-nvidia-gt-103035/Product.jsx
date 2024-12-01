@@ -31,6 +31,14 @@ const product = {
 // Datos de productos relacionados con enlaces únicos
 const related_products = [
         {
+        "id": 33,
+        "name": "Mini PC Stick MeLE PCG02 Sin Ventilador con 8GB RAM y 128GB Almacenamiento",
+        "price": 239.99,
+        "description": "Optimiza tu espacio y potencia tu productividad con el Mini PC Stick MeLE PCG02, un...",
+        "image": "https://m.media-amazon.com/images/I/71QNeA0DbEL._AC_SX425_.jpg",
+        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/mini-pc-stick-mele-pcg02-sin-ventilador-con-8gb-ram-y-128gb-almacenamiento33"
+    },
+    {
         "id": 38,
         "name": "Laptop CHUWI HeroBook Pro 14.1 Pulgadas con Pantalla FHD 2K y SSD de 256GB",
         "price": 199.99,
@@ -39,28 +47,20 @@ const related_products = [
         "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/laptop-chuwi-herobook-pro-141-pulgadas-con-pantalla-fhd-2k-y-ssd-de-256gb38"
     },
     {
-        "id": 42,
-        "name": "Chromebook Lenovo Slim 3, 14 Pulgadas, Azul Ligero, 2024",
-        "price": 219.99,
-        "description": "Descubre la combinación perfecta entre estilo, rendimiento y portabilidad con el Chromebook Lenovo Slim 3....",
-        "image": "https://m.media-amazon.com/images/I/61BRKJYlOSL._AC_SX425_.jpg",
-        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/chromebook-lenovo-slim-3-14-pulgadas-azul-ligero-202442"
-    },
-    {
-        "id": 40,
-        "name": "Chromebook ASUS CX1, 14 Pulgadas, Plata Transparente",
-        "price": 209.99,
-        "description": "Descubre el rendimiento eficiente y la versatilidad del Chromebook ASUS CX1, diseñado para ofrecerte productividad...",
-        "image": "https://m.media-amazon.com/images/I/71oYSGF0gVS._AC_SX425_.jpg",
-        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/chromebook-asus-cx1-14-pulgadas-plata-transparente40"
-    },
-    {
         "id": 44,
         "name": "Mini PC para Juegos AMD Ryzen 7, 16 GB RAM, 512 GB SSD, Windows 11 Pro",
         "price": 349.0,
         "description": "Disfruta de la máxima potencia en el menor espacio con la Mini PC para Juegos...",
         "image": "https://m.media-amazon.com/images/I/71iYRkJS1pL._AC_SX425_.jpg",
         "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/mini-pc-para-juegos-amd-ryzen-7-16-gb-ram-512-gb-ssd-windows-11-pro44"
+    },
+    {
+        "id": 36,
+        "name": "Laptop 2 en 1 Samsung Chromebook Plus con Pantalla Táctil FHD de 12.2 Pulgadas",
+        "price": 399.0,
+        "description": "La Samsung Chromebook Plus combina versatilidad y potencia en un diseño compacto y moderno, ideal...",
+        "image": "https://m.media-amazon.com/images/I/81k+w98hRSL._AC_SX425_.jpg",
+        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/laptop-2-en-1-samsung-chromebook-plus-con-pantalla-tactil-fhd-de-122-pulgadas36"
     }
 ];
 

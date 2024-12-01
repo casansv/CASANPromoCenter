@@ -30,36 +30,36 @@ const product = {
 // Datos de productos relacionados con enlaces únicos
 const related_products = [
         {
-        "id": 19,
-        "name": "Smartphone OPPO A80 5G con IA, 16GB RAM y 256GB de Almacenamiento",
-        "price": 263.55,
-        "description": "El OPPO A80 5G es el smartphone diseñado para quienes buscan innovación, diseño y rendimiento...",
-        "image": "https://m.media-amazon.com/images/I/51O1MIzu3oL._AC_SX679_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/smartphone-oppo-a80-5g-con-ia-16gb-ram-y-256gb-de-almacenamiento19"
+        "id": 25,
+        "name": "Acer Iconia Tab M10 con pantalla WUXGA de 10,1 Pulgadas y funda incluida",
+        "price": 199.96,
+        "description": "La Acer Iconia Tab M10 es una tablet diseñada para ofrecer rendimiento, calidad visual y...",
+        "image": "https://m.media-amazon.com/images/I/71XKX8Z5QBL._AC_SX679_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/acer-iconia-tab-m10-con-pantalla-wuxga-de-101-pulgadas-y-funda-incluida25"
     },
     {
-        "id": 17,
-        "name": "HAMMER 6 LTE - Teléfono Resistente IP68 con Botón SOS y Batería de 2500mAh",
-        "price": 73.0,
-        "description": "El HAMMER 6 LTE es un teléfono diseñado para resistir los entornos más exigentes, combinando...",
-        "image": "https://m.media-amazon.com/images/I/31eYwWm1X-L._AC_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/hammer-6-lte-telefono-resistente-ip68-con-boton-sos-y-bateria-de-2500mah17"
+        "id": 21,
+        "name": "Smartphone SPC Zeus 4G Pro para Mayores con Botón SOS y Base de Carga",
+        "price": 169.22,
+        "description": "El SPC Zeus 4G Pro es el smartphone ideal para personas mayores que buscan simplicidad,...",
+        "image": "https://m.media-amazon.com/images/I/6165IIIWIKL._AC_SX679_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/smartphone-spc-zeus-4g-pro-para-mayores-con-boton-sos-y-base-de-carga21"
     },
     {
-        "id": 27,
-        "name": "Xiaomi Pad 6 – Tablet WQHD+ de 11 Pulgadas con Snapdragon 870 y batería de 8840 mAh",
-        "price": 253.89,
-        "description": "La Xiaomi Pad 6 es la tablet diseñada para quienes buscan un equilibrio entre rendimiento,...",
-        "image": "https://m.media-amazon.com/images/I/61CXBT8IXtL._AC_SX569_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/xiaomi-pad-6-tablet-wqhd-de-11-pulgadas-con-snapdragon-870-y-bateria-de-8840-mah27"
+        "id": 20,
+        "name": "Smartphone Xiaomi Redmi Note 12 4G con pantalla AMOLED y cámara triple de 50 MP",
+        "price": 188.53,
+        "description": "El Xiaomi Redmi Note 12 4G es el compañero perfecto para quienes buscan un smartphone...",
+        "image": "https://m.media-amazon.com/images/I/61r7Asz11RL._AC_SX679_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/smartphone-xiaomi-redmi-note-12-4g-con-pantalla-amoled-y-camara-triple-de-50-mp20"
     },
     {
-        "id": 4,
-        "name": "Tablet de 8 Pulgadas con Cuerpo de Metal Dorado y SIM Dual",
-        "price": 110.58,
-        "description": "Sumérgete en la tecnología avanzada con esta Tablet de 8 pulgadas, diseñada para ofrecer rendimiento,...",
-        "image": "https://m.media-amazon.com/images/I/61jzpFgieRL._AC_SX425_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/tablet-de-8-pulgadas-con-cuerpo-de-metal-dorado-y-sim-dual4"
+        "id": 3,
+        "name": "Tablet Android Google Pixel con Pantalla de 11 Pulgadas, IA integrada y batería de larga duración",
+        "price": 619.0,
+        "description": "Descubre la innovación con la Google Pixel Tablet, diseñada para transformar tu experiencia digital. Equipada...",
+        "image": "https://m.media-amazon.com/images/I/71yATvhR3OL._AC_SX569_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/tablet-android-google-pixel-con-pantalla-de-11-pulgadas-ia-integrada-y-bateria-de-larga-duracion3"
     }
 ];
 

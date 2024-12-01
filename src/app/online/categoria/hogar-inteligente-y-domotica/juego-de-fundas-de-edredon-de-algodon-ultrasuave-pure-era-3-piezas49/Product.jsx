@@ -30,36 +30,36 @@ const product = {
 // Datos de productos relacionados con enlaces únicos
 const related_products = [
         {
-        "id": 52,
-        "name": "Mesa de Noche Furinno de Madera con Cajón, Color Espresso (2 Piezas)",
-        "price": 32.97,
-        "description": "Agrega funcionalidad y estilo a tu habitación con este set de dos mesas de noche...",
-        "image": "https://m.media-amazon.com/images/I/613ErDOuGFL._AC_SX522_.jpg",
-        "link": "/online/categoria/hogar-inteligente-y-domotica/mesa-de-noche-furinno-de-madera-con-cajon-color-espresso-2-piezas52"
-    },
-    {
-        "id": 51,
-        "name": "Juego de Funda de Edredón King Verde Salvia Claro CGK Unlimited (3 Piezas)",
-        "price": 24.99,
-        "description": "Renueva tu dormitorio con el lujoso juego de funda de edredón King de CGK Unlimited,...",
-        "image": "https://m.media-amazon.com/images/I/81r4PlsVxmL._AC_SX522_.jpg",
-        "link": "/online/categoria/hogar-inteligente-y-domotica/juego-de-funda-de-edredon-king-verde-salvia-claro-cgk-unlimited-3-piezas51"
-    },
-    {
-        "id": 45,
-        "name": "Máquina de Sonido y Reloj Despertador con Luz Lunar Homedics",
-        "price": 79.99,
-        "description": "Descubre una nueva forma de mejorar tu descanso con la máquina de sonido y reloj...",
-        "image": "https://m.media-amazon.com/images/I/618uiOYL1iL._AC_SX522_.jpg",
-        "link": "/online/categoria/hogar-inteligente-y-domotica/maquina-de-sonido-y-reloj-despertador-con-luz-lunar-homedics45"
-    },
-    {
         "id": 50,
         "name": "Funda de Edredón King Verde Salvia con Pompones Andency (3 Piezas)",
         "price": 39.99,
         "description": "Añade un toque de elegancia y comodidad a tu dormitorio con la funda de edredón...",
         "image": "https://m.media-amazon.com/images/I/81mgOruo3YL._AC_SX522_.jpg",
         "link": "/online/categoria/hogar-inteligente-y-domotica/funda-de-edredon-king-verde-salvia-con-pompones-andency-3-piezas50"
+    },
+    {
+        "id": 48,
+        "name": "Lámpara de Pared Exterior IP54 de Aluminio Antioxidante ZUUKOLE",
+        "price": 39.99,
+        "description": "Dale un toque sofisticado y funcional a tu hogar con la lámpara de pared exterior...",
+        "image": "https://m.media-amazon.com/images/I/51oa8XJesdL._AC_SX522_.jpg",
+        "link": "/online/categoria/hogar-inteligente-y-domotica/lampara-de-pared-exterior-ip54-de-aluminio-antioxidante-zuukole48"
+    },
+    {
+        "id": 47,
+        "name": "Aplique de Pared LED Negro de 10W IP65 para Interior y Exterior",
+        "price": 26.99,
+        "description": "Ilumina tus espacios con el elegante aplique de pared LED de Sobrovo. Fabricado con aleación...",
+        "image": "https://m.media-amazon.com/images/I/51QWpRMHmhL._AC_SX679_.jpg",
+        "link": "/online/categoria/hogar-inteligente-y-domotica/aplique-de-pared-led-negro-de-10w-ip65-para-interior-y-exterior47"
+    },
+    {
+        "id": 52,
+        "name": "Mesa de Noche Furinno de Madera con Cajón, Color Espresso (2 Piezas)",
+        "price": 32.97,
+        "description": "Agrega funcionalidad y estilo a tu habitación con este set de dos mesas de noche...",
+        "image": "https://m.media-amazon.com/images/I/613ErDOuGFL._AC_SX522_.jpg",
+        "link": "/online/categoria/hogar-inteligente-y-domotica/mesa-de-noche-furinno-de-madera-con-cajon-color-espresso-2-piezas52"
     }
 ];
 

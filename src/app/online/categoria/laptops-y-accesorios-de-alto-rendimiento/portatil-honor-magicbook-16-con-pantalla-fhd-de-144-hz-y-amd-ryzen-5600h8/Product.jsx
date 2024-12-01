@@ -31,12 +31,20 @@ const product = {
 // Datos de productos relacionados con enlaces únicos
 const related_products = [
         {
-        "id": 36,
-        "name": "Laptop 2 en 1 Samsung Chromebook Plus con Pantalla Táctil FHD de 12.2 Pulgadas",
-        "price": 399.0,
-        "description": "La Samsung Chromebook Plus combina versatilidad y potencia en un diseño compacto y moderno, ideal...",
-        "image": "https://m.media-amazon.com/images/I/81k+w98hRSL._AC_SX425_.jpg",
-        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/laptop-2-en-1-samsung-chromebook-plus-con-pantalla-tactil-fhd-de-122-pulgadas36"
+        "id": 33,
+        "name": "Mini PC Stick MeLE PCG02 Sin Ventilador con 8GB RAM y 128GB Almacenamiento",
+        "price": 239.99,
+        "description": "Optimiza tu espacio y potencia tu productividad con el Mini PC Stick MeLE PCG02, un...",
+        "image": "https://m.media-amazon.com/images/I/71QNeA0DbEL._AC_SX425_.jpg",
+        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/mini-pc-stick-mele-pcg02-sin-ventilador-con-8gb-ram-y-128gb-almacenamiento33"
+    },
+    {
+        "id": 41,
+        "name": "PC de Escritorio Dell OptiPlex, Intel i5, 16 GB RAM, 2 TB HDD",
+        "price": 199.99,
+        "description": "Eleva tu experiencia de computación con la PC de Escritorio Dell OptiPlex, equipada con un...",
+        "image": "https://m.media-amazon.com/images/I/91Fb+Pcxe-L._AC_SX425_.jpg",
+        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/pc-de-escritorio-dell-optiplex-intel-i5-16-gb-ram-2-tb-hdd41"
     },
     {
         "id": 7,
@@ -47,20 +55,12 @@ const related_products = [
         "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/portatil-acer-chromebook-314-de-14-pulgadas-con-chromeos-y-ssd-de-64-gb7"
     },
     {
-        "id": 32,
-        "name": "Mini PC MeLE Quieter2Q Sin Ventilador con 8GB RAM y 128GB Almacenamiento",
-        "price": 169.99,
-        "description": "Maximiza tu productividad con el Mini PC MeLE Quieter2Q, diseñado para ofrecer un rendimiento silencioso...",
-        "image": "https://m.media-amazon.com/images/I/711gBTGdAQL._AC_SX425_.jpg",
-        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/mini-pc-mele-quieter2q-sin-ventilador-con-8gb-ram-y-128gb-almacenamiento32"
-    },
-    {
-        "id": 44,
-        "name": "Mini PC para Juegos AMD Ryzen 7, 16 GB RAM, 512 GB SSD, Windows 11 Pro",
-        "price": 349.0,
-        "description": "Disfruta de la máxima potencia en el menor espacio con la Mini PC para Juegos...",
-        "image": "https://m.media-amazon.com/images/I/71iYRkJS1pL._AC_SX425_.jpg",
-        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/mini-pc-para-juegos-amd-ryzen-7-16-gb-ram-512-gb-ssd-windows-11-pro44"
+        "id": 36,
+        "name": "Laptop 2 en 1 Samsung Chromebook Plus con Pantalla Táctil FHD de 12.2 Pulgadas",
+        "price": 399.0,
+        "description": "La Samsung Chromebook Plus combina versatilidad y potencia en un diseño compacto y moderno, ideal...",
+        "image": "https://m.media-amazon.com/images/I/81k+w98hRSL._AC_SX425_.jpg",
+        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/laptop-2-en-1-samsung-chromebook-plus-con-pantalla-tactil-fhd-de-122-pulgadas36"
     }
 ];
 

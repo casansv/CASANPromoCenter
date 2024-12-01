@@ -30,36 +30,36 @@ const product = {
 // Datos de productos relacionados con enlaces únicos
 const related_products = [
         {
-        "id": 4,
-        "name": "Tablet de 8 Pulgadas con Cuerpo de Metal Dorado y SIM Dual",
-        "price": 110.58,
-        "description": "Sumérgete en la tecnología avanzada con esta Tablet de 8 pulgadas, diseñada para ofrecer rendimiento,...",
-        "image": "https://m.media-amazon.com/images/I/61jzpFgieRL._AC_SX425_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/tablet-de-8-pulgadas-con-cuerpo-de-metal-dorado-y-sim-dual4"
+        "id": 13,
+        "name": "vivo Y17s 128GB con Triple Cámara de 50 MP y Pantalla HD+ 6,56 Pulgadas",
+        "price": 157.64,
+        "description": "El vivo Y17s es el smartphone que combina diseño moderno, potencia y versatilidad para ofrecerte...",
+        "image": "https://m.media-amazon.com/images/I/710j3H4fTgL._AC_SX466_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/vivo-y17s-128gb-con-triple-camara-de-50-mp-y-pantalla-hd-656-pulgadas13"
     },
     {
-        "id": 12,
-        "name": "Motorola Moto g24 128GB Dual SIM con Cámara 50MP y Pantalla HD+ 90Hz",
-        "price": 115.3,
-        "description": "El Motorola Moto g24 combina estilo, rendimiento y funcionalidad a un precio accesible. Este smartphone...",
-        "image": "https://m.media-amazon.com/images/I/61GkKd1A0GL._AC_SX679_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/motorola-moto-g24-128gb-dual-sim-con-camara-50mp-y-pantalla-hd-90hz12"
+        "id": 10,
+        "name": "OPPO A60 4G - Smartphone Libre 256GB, Pantalla HD+ 6.7 Pulgadas y Carga Rápida",
+        "price": 210.5,
+        "description": "Descubre el equilibrio perfecto entre diseño, rendimiento y funcionalidad con el OPPO A60 4G. Este...",
+        "image": "https://m.media-amazon.com/images/I/81hygajaQnL._AC_SX679_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/oppo-a60-4g-smartphone-libre-256gb-pantalla-hd-67-pulgadas-y-carga-rapida10"
     },
     {
-        "id": 20,
-        "name": "Smartphone Xiaomi Redmi Note 12 4G con pantalla AMOLED y cámara triple de 50 MP",
-        "price": 188.53,
-        "description": "El Xiaomi Redmi Note 12 4G es el compañero perfecto para quienes buscan un smartphone...",
-        "image": "https://m.media-amazon.com/images/I/61r7Asz11RL._AC_SX679_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/smartphone-xiaomi-redmi-note-12-4g-con-pantalla-amoled-y-camara-triple-de-50-mp20"
+        "id": 14,
+        "name": "HUAWEI Pura 70 Ultra 512GB Verde con Cámara Emergente y SuperCharge de 100W",
+        "price": 1585.92,
+        "description": "El HUAWEI Pura 70 Ultra es la combinación perfecta de tecnología avanzada y diseño artístico....",
+        "image": "https://m.media-amazon.com/images/I/71-W9YVyc5L._AC_SX569_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/huawei-pura-70-ultra-512gb-verde-con-camara-emergente-y-supercharge-de-100w14"
     },
     {
-        "id": 29,
-        "name": "Tableta PRITOM M10 de 10 Pulgadas - Diseño Versátil y Seguro para Toda la Familia",
-        "price": 80.4,
-        "description": "La PRITOM M10 es una tableta Android 12 que combina rendimiento, funcionalidad y diseño pensado...",
-        "image": "https://m.media-amazon.com/images/I/61dCzmCA+AL._AC_SX569_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/tableta-pritom-m10-de-10-pulgadas-diseno-versatil-y-seguro-para-toda-la-familia29"
+        "id": 22,
+        "name": "Motorola Moto G24 con cámara de 50 MP y batería de 5000 mAh",
+        "price": 107.78,
+        "description": "El Motorola Moto G24 combina diseño, rendimiento y tecnología avanzada en un smartphone accesible. Su...",
+        "image": "https://m.media-amazon.com/images/I/61DrWxtwM5L._AC_SX569_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/motorola-moto-g24-con-camara-de-50-mp-y-bateria-de-5000-mah22"
     }
 ];
 

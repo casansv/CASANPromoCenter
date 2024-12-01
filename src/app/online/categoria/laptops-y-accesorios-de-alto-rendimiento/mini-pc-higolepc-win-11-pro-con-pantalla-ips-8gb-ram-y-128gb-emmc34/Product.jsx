@@ -30,20 +30,12 @@ const product = {
 // Datos de productos relacionados con enlaces únicos
 const related_products = [
         {
-        "id": 33,
-        "name": "Mini PC Stick MeLE PCG02 Sin Ventilador con 8GB RAM y 128GB Almacenamiento",
-        "price": 239.99,
-        "description": "Optimiza tu espacio y potencia tu productividad con el Mini PC Stick MeLE PCG02, un...",
-        "image": "https://m.media-amazon.com/images/I/71QNeA0DbEL._AC_SX425_.jpg",
-        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/mini-pc-stick-mele-pcg02-sin-ventilador-con-8gb-ram-y-128gb-almacenamiento33"
-    },
-    {
-        "id": 40,
-        "name": "Chromebook ASUS CX1, 14 Pulgadas, Plata Transparente",
-        "price": 209.99,
-        "description": "Descubre el rendimiento eficiente y la versatilidad del Chromebook ASUS CX1, diseñado para ofrecerte productividad...",
-        "image": "https://m.media-amazon.com/images/I/71oYSGF0gVS._AC_SX425_.jpg",
-        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/chromebook-asus-cx1-14-pulgadas-plata-transparente40"
+        "id": 32,
+        "name": "Mini PC MeLE Quieter2Q Sin Ventilador con 8GB RAM y 128GB Almacenamiento",
+        "price": 169.99,
+        "description": "Maximiza tu productividad con el Mini PC MeLE Quieter2Q, diseñado para ofrecer un rendimiento silencioso...",
+        "image": "https://m.media-amazon.com/images/I/711gBTGdAQL._AC_SX425_.jpg",
+        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/mini-pc-mele-quieter2q-sin-ventilador-con-8gb-ram-y-128gb-almacenamiento32"
     },
     {
         "id": 41,
@@ -54,12 +46,20 @@ const related_products = [
         "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/pc-de-escritorio-dell-optiplex-intel-i5-16-gb-ram-2-tb-hdd41"
     },
     {
-        "id": 31,
-        "name": "Mini PC MeLE Quieter 4C N100 Sin Ventilador con RAM de 16GB y 512GB SSD",
-        "price": 229.0,
-        "description": "Descubre la potencia compacta del Mini PC MeLE Quieter 4C, equipado con el procesador Alder...",
-        "image": "https://m.media-amazon.com/images/I/81fw5t8k63L._AC_SX425_.jpg",
-        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/mini-pc-mele-quieter-4c-n100-sin-ventilador-con-ram-de-16gb-y-512gb-ssd31"
+        "id": 7,
+        "name": "Portátil Acer Chromebook 314 de 14 pulgadas con ChromeOS y SSD de 64 GB",
+        "price": 270.45,
+        "description": "El Acer Chromebook 314 combina rendimiento, ligereza y eficiencia, siendo la herramienta ideal para estudiantes,...",
+        "image": "https://m.media-amazon.com/images/I/41Y3jkOcEKL._AC_SX569_.jpg",
+        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/portatil-acer-chromebook-314-de-14-pulgadas-con-chromeos-y-ssd-de-64-gb7"
+    },
+    {
+        "id": 39,
+        "name": "HP Laptop Ultraligera 14 Pulgadas con Intel Quad-Core y 8GB RAM",
+        "price": 249.99,
+        "description": "La HP Laptop de 14 pulgadas es el equilibrio ideal entre portabilidad y rendimiento, perfecta...",
+        "image": "https://m.media-amazon.com/images/I/81divYKpeTL._AC_SX679_.jpg",
+        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/hp-laptop-ultraligera-14-pulgadas-con-intel-quadcore-y-8gb-ram39"
     }
 ];
 

@@ -29,36 +29,36 @@ const product = {
 // Datos de productos relacionados con enlaces únicos
 const related_products = [
         {
-        "id": 8,
-        "name": "Portátil HONOR MagicBook 16 con Pantalla FHD de 144 Hz y AMD Ryzen 5600H",
-        "price": 1055.32,
-        "description": "El HONOR MagicBook 16 combina potencia, diseño y funcionalidad en un dispositivo ultrafino y ligero....",
-        "image": "https://m.media-amazon.com/images/I/71z52OuhClL._AC_SX569_.jpg",
-        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/portatil-honor-magicbook-16-con-pantalla-fhd-de-144-hz-y-amd-ryzen-5600h8"
-    },
-    {
-        "id": 37,
-        "name": "HP Laptop 14 HD Microborde con Intel Celeron N4020 y Windows 11 Home",
-        "price": 209.99,
-        "description": "La HP Laptop 14 es la combinación perfecta de portabilidad y rendimiento para el día...",
-        "image": "https://m.media-amazon.com/images/I/815uX7wkOZS._AC_SY450_.jpg",
-        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/hp-laptop-14-hd-microborde-con-intel-celeron-n4020-y-windows-11-home37"
-    },
-    {
-        "id": 33,
-        "name": "Mini PC Stick MeLE PCG02 Sin Ventilador con 8GB RAM y 128GB Almacenamiento",
-        "price": 239.99,
-        "description": "Optimiza tu espacio y potencia tu productividad con el Mini PC Stick MeLE PCG02, un...",
-        "image": "https://m.media-amazon.com/images/I/71QNeA0DbEL._AC_SX425_.jpg",
-        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/mini-pc-stick-mele-pcg02-sin-ventilador-con-8gb-ram-y-128gb-almacenamiento33"
-    },
-    {
         "id": 42,
         "name": "Chromebook Lenovo Slim 3, 14 Pulgadas, Azul Ligero, 2024",
         "price": 219.99,
         "description": "Descubre la combinación perfecta entre estilo, rendimiento y portabilidad con el Chromebook Lenovo Slim 3....",
         "image": "https://m.media-amazon.com/images/I/61BRKJYlOSL._AC_SX425_.jpg",
         "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/chromebook-lenovo-slim-3-14-pulgadas-azul-ligero-202442"
+    },
+    {
+        "id": 38,
+        "name": "Laptop CHUWI HeroBook Pro 14.1 Pulgadas con Pantalla FHD 2K y SSD de 256GB",
+        "price": 199.99,
+        "description": "La CHUWI HeroBook Pro ofrece un equilibrio perfecto entre diseño, potencia y portabilidad. Equipada con...",
+        "image": "https://m.media-amazon.com/images/I/61Iyy+2damL._AC_SX522_.jpg",
+        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/laptop-chuwi-herobook-pro-141-pulgadas-con-pantalla-fhd-2k-y-ssd-de-256gb38"
+    },
+    {
+        "id": 35,
+        "name": "PC de Escritorio Dell para Juegos RGB con Intel i5 y NVIDIA GT 1030",
+        "price": 291.39,
+        "description": "Experimenta el poder y estilo con la PC de Escritorio Dell para Juegos RGB, diseñada...",
+        "image": "https://m.media-amazon.com/images/I/81U066HOzeL._AC_SX425_.jpg",
+        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/pc-de-escritorio-dell-para-juegos-rgb-con-intel-i5-y-nvidia-gt-103035"
+    },
+    {
+        "id": 8,
+        "name": "Portátil HONOR MagicBook 16 con Pantalla FHD de 144 Hz y AMD Ryzen 5600H",
+        "price": 1055.32,
+        "description": "El HONOR MagicBook 16 combina potencia, diseño y funcionalidad en un dispositivo ultrafino y ligero....",
+        "image": "https://m.media-amazon.com/images/I/71z52OuhClL._AC_SX569_.jpg",
+        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/portatil-honor-magicbook-16-con-pantalla-fhd-de-144-hz-y-amd-ryzen-5600h8"
     }
 ];
 

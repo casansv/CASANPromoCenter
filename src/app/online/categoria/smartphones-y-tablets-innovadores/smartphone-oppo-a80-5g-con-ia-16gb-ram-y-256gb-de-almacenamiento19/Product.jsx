@@ -27,36 +27,36 @@ const product = {
 // Datos de productos relacionados con enlaces únicos
 const related_products = [
         {
-        "id": 18,
-        "name": "Smartphone resistente Ulefone Power Armor X11 Pro con batería de larga duración",
-        "price": 171.67,
-        "description": "El Ulefone Power Armor X11 Pro es el smartphone perfecto para quienes buscan un dispositivo...",
-        "image": "https://m.media-amazon.com/images/I/71EpROmfMYL._AC_SX569_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/smartphone-resistente-ulefone-power-armor-x11-pro-con-bateria-de-larga-duracion18"
+        "id": 12,
+        "name": "Motorola Moto g24 128GB Dual SIM con Cámara 50MP y Pantalla HD+ 90Hz",
+        "price": 115.3,
+        "description": "El Motorola Moto g24 combina estilo, rendimiento y funcionalidad a un precio accesible. Este smartphone...",
+        "image": "https://m.media-amazon.com/images/I/61GkKd1A0GL._AC_SX679_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/motorola-moto-g24-128gb-dual-sim-con-camara-50mp-y-pantalla-hd-90hz12"
     },
     {
-        "id": 27,
-        "name": "Xiaomi Pad 6 – Tablet WQHD+ de 11 Pulgadas con Snapdragon 870 y batería de 8840 mAh",
-        "price": 253.89,
-        "description": "La Xiaomi Pad 6 es la tablet diseñada para quienes buscan un equilibrio entre rendimiento,...",
-        "image": "https://m.media-amazon.com/images/I/61CXBT8IXtL._AC_SX569_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/xiaomi-pad-6-tablet-wqhd-de-11-pulgadas-con-snapdragon-870-y-bateria-de-8840-mah27"
+        "id": 4,
+        "name": "Tablet de 8 Pulgadas con Cuerpo de Metal Dorado y SIM Dual",
+        "price": 110.58,
+        "description": "Sumérgete en la tecnología avanzada con esta Tablet de 8 pulgadas, diseñada para ofrecer rendimiento,...",
+        "image": "https://m.media-amazon.com/images/I/61jzpFgieRL._AC_SX425_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/tablet-de-8-pulgadas-con-cuerpo-de-metal-dorado-y-sim-dual4"
     },
     {
-        "id": 11,
-        "name": "Google Pixel 8a - Smartphone Android 128GB con Cámara Inteligente y Diseño Resistente",
-        "price": 580.82,
-        "description": "El Google Pixel 8a redefine lo que esperas de un smartphone. Equipado con la innovadora...",
-        "image": "https://m.media-amazon.com/images/I/71JTIdBUvYL._AC_SX679_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/google-pixel-8a-smartphone-android-128gb-con-camara-inteligente-y-diseno-resistente11"
+        "id": 9,
+        "name": "iPhone 11 Pro de 64 GB en Plata - Tecnología Avanzada y Elegancia",
+        "price": 1109.07,
+        "description": "Experimenta la perfección tecnológica con el iPhone 11 Pro de 64 GB, un dispositivo diseñado...",
+        "image": "https://m.media-amazon.com/images/I/81vZCv9kA0L._AC_SX569_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/iphone-11-pro-de-64-gb-en-plata-tecnologia-avanzada-y-elegancia9"
     },
     {
-        "id": 24,
-        "name": "Samsung Galaxy Tab A9+ con pantalla de 11 Pulgadas y 128 GB de almacenamiento",
-        "price": 316.37,
-        "description": "La Samsung Galaxy Tab A9+ es la tablet ideal para quienes buscan combinar estilo, rendimiento...",
-        "image": "https://m.media-amazon.com/images/I/51tmXn9ZiEL._AC_SX569_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/samsung-galaxy-tab-a9-con-pantalla-de-11-pulgadas-y-128-gb-de-almacenamiento24"
+        "id": 5,
+        "name": "Tablet Lenovo Tab M9 de 9 Pulgadas HD con Dolby Atmos y Android 12",
+        "price": 94.0,
+        "description": "La Lenovo Tab M9 está diseñada para ofrecerte experiencias digitales inigualables. Su pantalla HD de...",
+        "image": "https://m.media-amazon.com/images/I/617atwaJKLL._AC_SX679_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/tablet-lenovo-tab-m9-de-9-pulgadas-hd-con-dolby-atmos-y-android-125"
     }
 ];
 

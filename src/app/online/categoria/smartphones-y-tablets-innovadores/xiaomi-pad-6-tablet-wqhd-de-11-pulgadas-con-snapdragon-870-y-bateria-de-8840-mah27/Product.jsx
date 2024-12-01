@@ -29,28 +29,12 @@ const product = {
 // Datos de productos relacionados con enlaces únicos
 const related_products = [
         {
-        "id": 18,
-        "name": "Smartphone resistente Ulefone Power Armor X11 Pro con batería de larga duración",
-        "price": 171.67,
-        "description": "El Ulefone Power Armor X11 Pro es el smartphone perfecto para quienes buscan un dispositivo...",
-        "image": "https://m.media-amazon.com/images/I/71EpROmfMYL._AC_SX569_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/smartphone-resistente-ulefone-power-armor-x11-pro-con-bateria-de-larga-duracion18"
-    },
-    {
-        "id": 20,
-        "name": "Smartphone Xiaomi Redmi Note 12 4G con pantalla AMOLED y cámara triple de 50 MP",
-        "price": 188.53,
-        "description": "El Xiaomi Redmi Note 12 4G es el compañero perfecto para quienes buscan un smartphone...",
-        "image": "https://m.media-amazon.com/images/I/61r7Asz11RL._AC_SX679_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/smartphone-xiaomi-redmi-note-12-4g-con-pantalla-amoled-y-camara-triple-de-50-mp20"
-    },
-    {
-        "id": 29,
-        "name": "Tableta PRITOM M10 de 10 Pulgadas - Diseño Versátil y Seguro para Toda la Familia",
-        "price": 80.4,
-        "description": "La PRITOM M10 es una tableta Android 12 que combina rendimiento, funcionalidad y diseño pensado...",
-        "image": "https://m.media-amazon.com/images/I/61dCzmCA+AL._AC_SX569_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/tableta-pritom-m10-de-10-pulgadas-diseno-versatil-y-seguro-para-toda-la-familia29"
+        "id": 25,
+        "name": "Acer Iconia Tab M10 con pantalla WUXGA de 10,1 Pulgadas y funda incluida",
+        "price": 199.96,
+        "description": "La Acer Iconia Tab M10 es una tablet diseñada para ofrecer rendimiento, calidad visual y...",
+        "image": "https://m.media-amazon.com/images/I/71XKX8Z5QBL._AC_SX679_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/acer-iconia-tab-m10-con-pantalla-wuxga-de-101-pulgadas-y-funda-incluida25"
     },
     {
         "id": 22,
@@ -59,6 +43,22 @@ const related_products = [
         "description": "El Motorola Moto G24 combina diseño, rendimiento y tecnología avanzada en un smartphone accesible. Su...",
         "image": "https://m.media-amazon.com/images/I/61DrWxtwM5L._AC_SX569_.jpg",
         "link": "/online/categoria/smartphones-y-tablets-innovadores/motorola-moto-g24-con-camara-de-50-mp-y-bateria-de-5000-mah22"
+    },
+    {
+        "id": 13,
+        "name": "vivo Y17s 128GB con Triple Cámara de 50 MP y Pantalla HD+ 6,56 Pulgadas",
+        "price": 157.64,
+        "description": "El vivo Y17s es el smartphone que combina diseño moderno, potencia y versatilidad para ofrecerte...",
+        "image": "https://m.media-amazon.com/images/I/710j3H4fTgL._AC_SX466_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/vivo-y17s-128gb-con-triple-camara-de-50-mp-y-pantalla-hd-656-pulgadas13"
+    },
+    {
+        "id": 18,
+        "name": "Smartphone resistente Ulefone Power Armor X11 Pro con batería de larga duración",
+        "price": 171.67,
+        "description": "El Ulefone Power Armor X11 Pro es el smartphone perfecto para quienes buscan un dispositivo...",
+        "image": "https://m.media-amazon.com/images/I/71EpROmfMYL._AC_SX569_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/smartphone-resistente-ulefone-power-armor-x11-pro-con-bateria-de-larga-duracion18"
     }
 ];
 

@@ -38,28 +38,28 @@ const related_products = [
         "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/laptop-chuwi-herobook-pro-141-pulgadas-con-pantalla-fhd-2k-y-ssd-de-256gb38"
     },
     {
-        "id": 37,
-        "name": "HP Laptop 14 HD Microborde con Intel Celeron N4020 y Windows 11 Home",
-        "price": 209.99,
-        "description": "La HP Laptop 14 es la combinación perfecta de portabilidad y rendimiento para el día...",
-        "image": "https://m.media-amazon.com/images/I/815uX7wkOZS._AC_SY450_.jpg",
-        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/hp-laptop-14-hd-microborde-con-intel-celeron-n4020-y-windows-11-home37"
+        "id": 39,
+        "name": "HP Laptop Ultraligera 14 Pulgadas con Intel Quad-Core y 8GB RAM",
+        "price": 249.99,
+        "description": "La HP Laptop de 14 pulgadas es el equilibrio ideal entre portabilidad y rendimiento, perfecta...",
+        "image": "https://m.media-amazon.com/images/I/81divYKpeTL._AC_SX679_.jpg",
+        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/hp-laptop-ultraligera-14-pulgadas-con-intel-quadcore-y-8gb-ram39"
     },
     {
-        "id": 31,
-        "name": "Mini PC MeLE Quieter 4C N100 Sin Ventilador con RAM de 16GB y 512GB SSD",
-        "price": 229.0,
-        "description": "Descubre la potencia compacta del Mini PC MeLE Quieter 4C, equipado con el procesador Alder...",
-        "image": "https://m.media-amazon.com/images/I/81fw5t8k63L._AC_SX425_.jpg",
-        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/mini-pc-mele-quieter-4c-n100-sin-ventilador-con-ram-de-16gb-y-512gb-ssd31"
+        "id": 42,
+        "name": "Chromebook Lenovo Slim 3, 14 Pulgadas, Azul Ligero, 2024",
+        "price": 219.99,
+        "description": "Descubre la combinación perfecta entre estilo, rendimiento y portabilidad con el Chromebook Lenovo Slim 3....",
+        "image": "https://m.media-amazon.com/images/I/61BRKJYlOSL._AC_SX425_.jpg",
+        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/chromebook-lenovo-slim-3-14-pulgadas-azul-ligero-202442"
     },
     {
-        "id": 7,
-        "name": "Portátil Acer Chromebook 314 de 14 pulgadas con ChromeOS y SSD de 64 GB",
-        "price": 270.45,
-        "description": "El Acer Chromebook 314 combina rendimiento, ligereza y eficiencia, siendo la herramienta ideal para estudiantes,...",
-        "image": "https://m.media-amazon.com/images/I/41Y3jkOcEKL._AC_SX569_.jpg",
-        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/portatil-acer-chromebook-314-de-14-pulgadas-con-chromeos-y-ssd-de-64-gb7"
+        "id": 44,
+        "name": "Mini PC para Juegos AMD Ryzen 7, 16 GB RAM, 512 GB SSD, Windows 11 Pro",
+        "price": 349.0,
+        "description": "Disfruta de la máxima potencia en el menor espacio con la Mini PC para Juegos...",
+        "image": "https://m.media-amazon.com/images/I/71iYRkJS1pL._AC_SX425_.jpg",
+        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/mini-pc-para-juegos-amd-ryzen-7-16-gb-ram-512-gb-ssd-windows-11-pro44"
     }
 ];
 

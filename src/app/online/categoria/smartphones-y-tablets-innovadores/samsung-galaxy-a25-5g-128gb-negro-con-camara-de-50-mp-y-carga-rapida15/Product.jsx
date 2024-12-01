@@ -31,6 +31,22 @@ const product = {
 // Datos de productos relacionados con enlaces únicos
 const related_products = [
         {
+        "id": 4,
+        "name": "Tablet de 8 Pulgadas con Cuerpo de Metal Dorado y SIM Dual",
+        "price": 110.58,
+        "description": "Sumérgete en la tecnología avanzada con esta Tablet de 8 pulgadas, diseñada para ofrecer rendimiento,...",
+        "image": "https://m.media-amazon.com/images/I/61jzpFgieRL._AC_SX425_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/tablet-de-8-pulgadas-con-cuerpo-de-metal-dorado-y-sim-dual4"
+    },
+    {
+        "id": 9,
+        "name": "iPhone 11 Pro de 64 GB en Plata - Tecnología Avanzada y Elegancia",
+        "price": 1109.07,
+        "description": "Experimenta la perfección tecnológica con el iPhone 11 Pro de 64 GB, un dispositivo diseñado...",
+        "image": "https://m.media-amazon.com/images/I/81vZCv9kA0L._AC_SX569_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/iphone-11-pro-de-64-gb-en-plata-tecnologia-avanzada-y-elegancia9"
+    },
+    {
         "id": 2,
         "name": "Teléfono móvil para personas mayores con botón SOS y pantalla a color",
         "price": 39.99,
@@ -39,28 +55,12 @@ const related_products = [
         "link": "/online/categoria/smartphones-y-tablets-innovadores/telefono-movil-para-personas-mayores-con-boton-sos-y-pantalla-a-color2"
     },
     {
-        "id": 29,
-        "name": "Tableta PRITOM M10 de 10 Pulgadas - Diseño Versátil y Seguro para Toda la Familia",
-        "price": 80.4,
-        "description": "La PRITOM M10 es una tableta Android 12 que combina rendimiento, funcionalidad y diseño pensado...",
-        "image": "https://m.media-amazon.com/images/I/61dCzmCA+AL._AC_SX569_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/tableta-pritom-m10-de-10-pulgadas-diseno-versatil-y-seguro-para-toda-la-familia29"
-    },
-    {
-        "id": 6,
-        "name": "Tablet HUAWEI MatePad SE 11 Pulgadas con M-Pen Lite y Superbatería de 7700 mAh",
-        "price": 210.18,
-        "description": "La HUAWEI MatePad SE 11 Pulgadas es la combinación perfecta entre diseño elegante y tecnología...",
-        "image": "https://m.media-amazon.com/images/I/61sBnhuQxaL._AC_SX569_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/tablet-huawei-matepad-se-11-pulgadas-con-mpen-lite-y-superbateria-de-7700-mah6"
-    },
-    {
-        "id": 20,
-        "name": "Smartphone Xiaomi Redmi Note 12 4G con pantalla AMOLED y cámara triple de 50 MP",
-        "price": 188.53,
-        "description": "El Xiaomi Redmi Note 12 4G es el compañero perfecto para quienes buscan un smartphone...",
-        "image": "https://m.media-amazon.com/images/I/61r7Asz11RL._AC_SX679_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/smartphone-xiaomi-redmi-note-12-4g-con-pantalla-amoled-y-camara-triple-de-50-mp20"
+        "id": 18,
+        "name": "Smartphone resistente Ulefone Power Armor X11 Pro con batería de larga duración",
+        "price": 171.67,
+        "description": "El Ulefone Power Armor X11 Pro es el smartphone perfecto para quienes buscan un dispositivo...",
+        "image": "https://m.media-amazon.com/images/I/71EpROmfMYL._AC_SX569_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/smartphone-resistente-ulefone-power-armor-x11-pro-con-bateria-de-larga-duracion18"
     }
 ];
 

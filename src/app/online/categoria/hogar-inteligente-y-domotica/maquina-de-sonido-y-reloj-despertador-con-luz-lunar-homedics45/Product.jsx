@@ -29,14 +29,6 @@ const product = {
 // Datos de productos relacionados con enlaces únicos
 const related_products = [
         {
-        "id": 50,
-        "name": "Funda de Edredón King Verde Salvia con Pompones Andency (3 Piezas)",
-        "price": 39.99,
-        "description": "Añade un toque de elegancia y comodidad a tu dormitorio con la funda de edredón...",
-        "image": "https://m.media-amazon.com/images/I/81mgOruo3YL._AC_SX522_.jpg",
-        "link": "/online/categoria/hogar-inteligente-y-domotica/funda-de-edredon-king-verde-salvia-con-pompones-andency-3-piezas50"
-    },
-    {
         "id": 51,
         "name": "Juego de Funda de Edredón King Verde Salvia Claro CGK Unlimited (3 Piezas)",
         "price": 24.99,
@@ -45,12 +37,20 @@ const related_products = [
         "link": "/online/categoria/hogar-inteligente-y-domotica/juego-de-funda-de-edredon-king-verde-salvia-claro-cgk-unlimited-3-piezas51"
     },
     {
-        "id": 49,
-        "name": "Juego de Fundas de Edredón de Algodón Ultrasuave Pure Era (3 Piezas)",
-        "price": 56.0,
-        "description": "Descubre el lujo de dormir con el juego de fundas de edredón Pure Era, diseñado...",
-        "image": "https://m.media-amazon.com/images/I/81mujzyfVVL._AC_SX522_.jpg",
-        "link": "/online/categoria/hogar-inteligente-y-domotica/juego-de-fundas-de-edredon-de-algodon-ultrasuave-pure-era-3-piezas49"
+        "id": 50,
+        "name": "Funda de Edredón King Verde Salvia con Pompones Andency (3 Piezas)",
+        "price": 39.99,
+        "description": "Añade un toque de elegancia y comodidad a tu dormitorio con la funda de edredón...",
+        "image": "https://m.media-amazon.com/images/I/81mgOruo3YL._AC_SX522_.jpg",
+        "link": "/online/categoria/hogar-inteligente-y-domotica/funda-de-edredon-king-verde-salvia-con-pompones-andency-3-piezas50"
+    },
+    {
+        "id": 46,
+        "name": "Juego de 2 Apliques de Pared de Níquel Cepillado con Vidrio Transparente",
+        "price": 37.99,
+        "description": "Añade un toque moderno y sofisticado a tus espacios con el juego de 2 apliques...",
+        "image": "https://m.media-amazon.com/images/I/612R-3BVz0L._AC_SX522_.jpg",
+        "link": "/online/categoria/hogar-inteligente-y-domotica/juego-de-2-apliques-de-pared-de-niquel-cepillado-con-vidrio-transparente46"
     },
     {
         "id": 48,

@@ -31,6 +31,22 @@ const product = {
 // Datos de productos relacionados con enlaces únicos
 const related_products = [
         {
+        "id": 41,
+        "name": "PC de Escritorio Dell OptiPlex, Intel i5, 16 GB RAM, 2 TB HDD",
+        "price": 199.99,
+        "description": "Eleva tu experiencia de computación con la PC de Escritorio Dell OptiPlex, equipada con un...",
+        "image": "https://m.media-amazon.com/images/I/91Fb+Pcxe-L._AC_SX425_.jpg",
+        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/pc-de-escritorio-dell-optiplex-intel-i5-16-gb-ram-2-tb-hdd41"
+    },
+    {
+        "id": 36,
+        "name": "Laptop 2 en 1 Samsung Chromebook Plus con Pantalla Táctil FHD de 12.2 Pulgadas",
+        "price": 399.0,
+        "description": "La Samsung Chromebook Plus combina versatilidad y potencia en un diseño compacto y moderno, ideal...",
+        "image": "https://m.media-amazon.com/images/I/81k+w98hRSL._AC_SX425_.jpg",
+        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/laptop-2-en-1-samsung-chromebook-plus-con-pantalla-tactil-fhd-de-122-pulgadas36"
+    },
+    {
         "id": 34,
         "name": "Mini PC HIGOLEPC Win 11 Pro con Pantalla IPS, 8GB RAM y 128GB EMMC",
         "price": 269.99,
@@ -45,22 +61,6 @@ const related_products = [
         "description": "Con la ASUS Chromebook CM14, la productividad y el estilo van de la mano. Este...",
         "image": "https://m.media-amazon.com/images/I/616aCuRtnpL._AC_SX425_.jpg",
         "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/laptop-asus-chromebook-cm14-14-pulgadas-gris-gravedad43"
-    },
-    {
-        "id": 42,
-        "name": "Chromebook Lenovo Slim 3, 14 Pulgadas, Azul Ligero, 2024",
-        "price": 219.99,
-        "description": "Descubre la combinación perfecta entre estilo, rendimiento y portabilidad con el Chromebook Lenovo Slim 3....",
-        "image": "https://m.media-amazon.com/images/I/61BRKJYlOSL._AC_SX425_.jpg",
-        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/chromebook-lenovo-slim-3-14-pulgadas-azul-ligero-202442"
-    },
-    {
-        "id": 8,
-        "name": "Portátil HONOR MagicBook 16 con Pantalla FHD de 144 Hz y AMD Ryzen 5600H",
-        "price": 1055.32,
-        "description": "El HONOR MagicBook 16 combina potencia, diseño y funcionalidad en un dispositivo ultrafino y ligero....",
-        "image": "https://m.media-amazon.com/images/I/71z52OuhClL._AC_SX569_.jpg",
-        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/portatil-honor-magicbook-16-con-pantalla-fhd-de-144-hz-y-amd-ryzen-5600h8"
     }
 ];
 

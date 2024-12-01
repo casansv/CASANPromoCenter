@@ -30,28 +30,12 @@ const product = {
 // Datos de productos relacionados con enlaces únicos
 const related_products = [
         {
-        "id": 4,
-        "name": "Tablet de 8 Pulgadas con Cuerpo de Metal Dorado y SIM Dual",
-        "price": 110.58,
-        "description": "Sumérgete en la tecnología avanzada con esta Tablet de 8 pulgadas, diseñada para ofrecer rendimiento,...",
-        "image": "https://m.media-amazon.com/images/I/61jzpFgieRL._AC_SX425_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/tablet-de-8-pulgadas-con-cuerpo-de-metal-dorado-y-sim-dual4"
-    },
-    {
-        "id": 16,
-        "name": "Panasonic KX-TU400EXC Teléfono para Mayores con Botón SOS y Cámara - Turquesa",
-        "price": 52.88,
-        "description": "El Panasonic KX-TU400EXC es un teléfono móvil diseñado especialmente para personas mayores, combinando facilidad de...",
-        "image": "https://m.media-amazon.com/images/I/41NgNigFmbL._AC_SX679_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/panasonic-kxtu400exc-telefono-para-mayores-con-boton-sos-y-camara-turquesa16"
-    },
-    {
-        "id": 17,
-        "name": "HAMMER 6 LTE - Teléfono Resistente IP68 con Botón SOS y Batería de 2500mAh",
-        "price": 73.0,
-        "description": "El HAMMER 6 LTE es un teléfono diseñado para resistir los entornos más exigentes, combinando...",
-        "image": "https://m.media-amazon.com/images/I/31eYwWm1X-L._AC_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/hammer-6-lte-telefono-resistente-ip68-con-boton-sos-y-bateria-de-2500mah17"
+        "id": 2,
+        "name": "Teléfono móvil para personas mayores con botón SOS y pantalla a color",
+        "price": 39.99,
+        "description": "El teléfono Panasonic KX-TU400EXG está diseñado pensando en la comodidad y seguridad de los adultos...",
+        "image": "https://m.media-amazon.com/images/I/61dgkB6MmVL._AC_SX679_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/telefono-movil-para-personas-mayores-con-boton-sos-y-pantalla-a-color2"
     },
     {
         "id": 10,
@@ -60,6 +44,22 @@ const related_products = [
         "description": "Descubre el equilibrio perfecto entre diseño, rendimiento y funcionalidad con el OPPO A60 4G. Este...",
         "image": "https://m.media-amazon.com/images/I/81hygajaQnL._AC_SX679_.jpg",
         "link": "/online/categoria/smartphones-y-tablets-innovadores/oppo-a60-4g-smartphone-libre-256gb-pantalla-hd-67-pulgadas-y-carga-rapida10"
+    },
+    {
+        "id": 3,
+        "name": "Tablet Android Google Pixel con Pantalla de 11 Pulgadas, IA integrada y batería de larga duración",
+        "price": 619.0,
+        "description": "Descubre la innovación con la Google Pixel Tablet, diseñada para transformar tu experiencia digital. Equipada...",
+        "image": "https://m.media-amazon.com/images/I/71yATvhR3OL._AC_SX569_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/tablet-android-google-pixel-con-pantalla-de-11-pulgadas-ia-integrada-y-bateria-de-larga-duracion3"
+    },
+    {
+        "id": 17,
+        "name": "HAMMER 6 LTE - Teléfono Resistente IP68 con Botón SOS y Batería de 2500mAh",
+        "price": 73.0,
+        "description": "El HAMMER 6 LTE es un teléfono diseñado para resistir los entornos más exigentes, combinando...",
+        "image": "https://m.media-amazon.com/images/I/31eYwWm1X-L._AC_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/hammer-6-lte-telefono-resistente-ip68-con-boton-sos-y-bateria-de-2500mah17"
     }
 ];
 

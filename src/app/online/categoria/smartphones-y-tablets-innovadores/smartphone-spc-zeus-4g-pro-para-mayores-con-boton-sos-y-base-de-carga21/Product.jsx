@@ -31,36 +31,36 @@ const product = {
 // Datos de productos relacionados con enlaces únicos
 const related_products = [
         {
-        "id": 2,
-        "name": "Teléfono móvil para personas mayores con botón SOS y pantalla a color",
-        "price": 39.99,
-        "description": "El teléfono Panasonic KX-TU400EXG está diseñado pensando en la comodidad y seguridad de los adultos...",
-        "image": "https://m.media-amazon.com/images/I/61dgkB6MmVL._AC_SX679_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/telefono-movil-para-personas-mayores-con-boton-sos-y-pantalla-a-color2"
+        "id": 10,
+        "name": "OPPO A60 4G - Smartphone Libre 256GB, Pantalla HD+ 6.7 Pulgadas y Carga Rápida",
+        "price": 210.5,
+        "description": "Descubre el equilibrio perfecto entre diseño, rendimiento y funcionalidad con el OPPO A60 4G. Este...",
+        "image": "https://m.media-amazon.com/images/I/81hygajaQnL._AC_SX679_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/oppo-a60-4g-smartphone-libre-256gb-pantalla-hd-67-pulgadas-y-carga-rapida10"
     },
     {
-        "id": 25,
-        "name": "Acer Iconia Tab M10 con pantalla WUXGA de 10,1 Pulgadas y funda incluida",
-        "price": 199.96,
-        "description": "La Acer Iconia Tab M10 es una tablet diseñada para ofrecer rendimiento, calidad visual y...",
-        "image": "https://m.media-amazon.com/images/I/71XKX8Z5QBL._AC_SX679_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/acer-iconia-tab-m10-con-pantalla-wuxga-de-101-pulgadas-y-funda-incluida25"
+        "id": 26,
+        "name": "Samsung Galaxy Tab A7 Lite con pantalla de 8,7 Pulgadas y 64 GB de almacenamiento",
+        "price": 182.77,
+        "description": "La Samsung Galaxy Tab A7 Lite es la opción ideal para quienes buscan una tablet...",
+        "image": "https://m.media-amazon.com/images/I/81XG8dmudVS._AC_SX679_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/samsung-galaxy-tab-a7-lite-con-pantalla-de-87-pulgadas-y-64-gb-de-almacenamiento26"
     },
     {
-        "id": 17,
-        "name": "HAMMER 6 LTE - Teléfono Resistente IP68 con Botón SOS y Batería de 2500mAh",
-        "price": 73.0,
-        "description": "El HAMMER 6 LTE es un teléfono diseñado para resistir los entornos más exigentes, combinando...",
-        "image": "https://m.media-amazon.com/images/I/31eYwWm1X-L._AC_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/hammer-6-lte-telefono-resistente-ip68-con-boton-sos-y-bateria-de-2500mah17"
+        "id": 20,
+        "name": "Smartphone Xiaomi Redmi Note 12 4G con pantalla AMOLED y cámara triple de 50 MP",
+        "price": 188.53,
+        "description": "El Xiaomi Redmi Note 12 4G es el compañero perfecto para quienes buscan un smartphone...",
+        "image": "https://m.media-amazon.com/images/I/61r7Asz11RL._AC_SX679_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/smartphone-xiaomi-redmi-note-12-4g-con-pantalla-amoled-y-camara-triple-de-50-mp20"
     },
     {
-        "id": 16,
-        "name": "Panasonic KX-TU400EXC Teléfono para Mayores con Botón SOS y Cámara - Turquesa",
-        "price": 52.88,
-        "description": "El Panasonic KX-TU400EXC es un teléfono móvil diseñado especialmente para personas mayores, combinando facilidad de...",
-        "image": "https://m.media-amazon.com/images/I/41NgNigFmbL._AC_SX679_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/panasonic-kxtu400exc-telefono-para-mayores-con-boton-sos-y-camara-turquesa16"
+        "id": 3,
+        "name": "Tablet Android Google Pixel con Pantalla de 11 Pulgadas, IA integrada y batería de larga duración",
+        "price": 619.0,
+        "description": "Descubre la innovación con la Google Pixel Tablet, diseñada para transformar tu experiencia digital. Equipada...",
+        "image": "https://m.media-amazon.com/images/I/71yATvhR3OL._AC_SX569_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/tablet-android-google-pixel-con-pantalla-de-11-pulgadas-ia-integrada-y-bateria-de-larga-duracion3"
     }
 ];
 

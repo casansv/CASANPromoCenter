@@ -31,28 +31,20 @@ const product = {
 // Datos de productos relacionados con enlaces únicos
 const related_products = [
         {
-        "id": 35,
-        "name": "PC de Escritorio Dell para Juegos RGB con Intel i5 y NVIDIA GT 1030",
-        "price": 291.39,
-        "description": "Experimenta el poder y estilo con la PC de Escritorio Dell para Juegos RGB, diseñada...",
-        "image": "https://m.media-amazon.com/images/I/81U066HOzeL._AC_SX425_.jpg",
-        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/pc-de-escritorio-dell-para-juegos-rgb-con-intel-i5-y-nvidia-gt-103035"
+        "id": 40,
+        "name": "Chromebook ASUS CX1, 14 Pulgadas, Plata Transparente",
+        "price": 209.99,
+        "description": "Descubre el rendimiento eficiente y la versatilidad del Chromebook ASUS CX1, diseñado para ofrecerte productividad...",
+        "image": "https://m.media-amazon.com/images/I/71oYSGF0gVS._AC_SX425_.jpg",
+        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/chromebook-asus-cx1-14-pulgadas-plata-transparente40"
     },
     {
-        "id": 36,
-        "name": "Laptop 2 en 1 Samsung Chromebook Plus con Pantalla Táctil FHD de 12.2 Pulgadas",
-        "price": 399.0,
-        "description": "La Samsung Chromebook Plus combina versatilidad y potencia en un diseño compacto y moderno, ideal...",
-        "image": "https://m.media-amazon.com/images/I/81k+w98hRSL._AC_SX425_.jpg",
-        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/laptop-2-en-1-samsung-chromebook-plus-con-pantalla-tactil-fhd-de-122-pulgadas36"
-    },
-    {
-        "id": 32,
-        "name": "Mini PC MeLE Quieter2Q Sin Ventilador con 8GB RAM y 128GB Almacenamiento",
-        "price": 169.99,
-        "description": "Maximiza tu productividad con el Mini PC MeLE Quieter2Q, diseñado para ofrecer un rendimiento silencioso...",
-        "image": "https://m.media-amazon.com/images/I/711gBTGdAQL._AC_SX425_.jpg",
-        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/mini-pc-mele-quieter2q-sin-ventilador-con-8gb-ram-y-128gb-almacenamiento32"
+        "id": 43,
+        "name": "Laptop ASUS Chromebook CM14, 14 Pulgadas, Gris Gravedad",
+        "price": 279.99,
+        "description": "Con la ASUS Chromebook CM14, la productividad y el estilo van de la mano. Este...",
+        "image": "https://m.media-amazon.com/images/I/616aCuRtnpL._AC_SX425_.jpg",
+        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/laptop-asus-chromebook-cm14-14-pulgadas-gris-gravedad43"
     },
     {
         "id": 38,
@@ -61,6 +53,14 @@ const related_products = [
         "description": "La CHUWI HeroBook Pro ofrece un equilibrio perfecto entre diseño, potencia y portabilidad. Equipada con...",
         "image": "https://m.media-amazon.com/images/I/61Iyy+2damL._AC_SX522_.jpg",
         "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/laptop-chuwi-herobook-pro-141-pulgadas-con-pantalla-fhd-2k-y-ssd-de-256gb38"
+    },
+    {
+        "id": 36,
+        "name": "Laptop 2 en 1 Samsung Chromebook Plus con Pantalla Táctil FHD de 12.2 Pulgadas",
+        "price": 399.0,
+        "description": "La Samsung Chromebook Plus combina versatilidad y potencia en un diseño compacto y moderno, ideal...",
+        "image": "https://m.media-amazon.com/images/I/81k+w98hRSL._AC_SX425_.jpg",
+        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/laptop-2-en-1-samsung-chromebook-plus-con-pantalla-tactil-fhd-de-122-pulgadas36"
     }
 ];
 

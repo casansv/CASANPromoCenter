@@ -59,9 +59,9 @@ export default function ProductPage() {
     const productos = [
         
     {
-        "Nombre": "Zapatos de Flamenco para Niña y Mujer 'La Señorita' - Clásicos, Cómodos y con Suela de Goma para Bailar Sevillanas",
+        "Nombre": "Zapatos de Flamenco para Niña y Mujer La Señorita - Clásicos, Cómodos y con Suela de Goma para Bailar Sevillanas",
         "Imagen": "https://m.media-amazon.com/images/I/414fbumth1L._AC_SX575_.jpg",
-        "Descripcion": "Los zapatos de flamenco 'La Señorita' son la opción ideal para quienes buscan comodidad y estilo en sus clases de baile o actuaciones. Disponibles en una amplia variedad de tallas, desde el número 24 hasta el 42, son perfectos tanto para niñas como para mujeres. Fabricados con materiales de alta calidad, estos zapatos de tacón se destacan por su suela de goma, que ofrece un agarre excepcional, y su cierre con hebilla, que asegura un ajuste perfecto y máximo confort mientras bailas. Ya sea para iniciarte en el flamenco, practicar sevillanas o completar tu atuendo de gitana en la feria, los zapatos 'La Señorita' son la elección perfecta. Además, su diseño estiliza la figura y permite que el vestido de flamenca tenga un movimiento fluido y vibrante, ideal para crear el look completo.",
+        "Descripcion": "Los zapatos de flamenco La Señorita son la opción ideal para quienes buscan comodidad y estilo en sus clases de baile o actuaciones. Disponibles en una amplia variedad de tallas, desde el número 24 hasta el 42, son perfectos tanto para niñas como para mujeres. Fabricados con materiales de alta calidad, estos zapatos de tacón se destacan por su suela de goma, que ofrece un agarre excepcional, y su cierre con hebilla, que asegura un ajuste perfecto y máximo confort mientras bailas. Ya sea para iniciarte en el flamenco, practicar sevillanas o completar tu atuendo de gitana en la feria, los zapatos La Señorita son la elección perfecta. Además, su diseño estiliza la figura y permite que el vestido de flamenca tenga un movimiento fluido y vibrante, ideal para crear el look completo.",
         "Precio": 2.21,
         "PLink": "/online/categoria/moda-y-accesorios-femeninos/zapatos-de-flamenco-para-nina-y-mujer-la-senorita-clasicos-comodos-y-con-suela-de-goma-para-bailar-sevillanas1"
     }

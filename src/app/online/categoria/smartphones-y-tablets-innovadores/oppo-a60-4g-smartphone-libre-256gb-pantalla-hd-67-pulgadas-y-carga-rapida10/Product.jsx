@@ -30,14 +30,6 @@ const product = {
 // Datos de productos relacionados con enlaces únicos
 const related_products = [
         {
-        "id": 17,
-        "name": "HAMMER 6 LTE - Teléfono Resistente IP68 con Botón SOS y Batería de 2500mAh",
-        "price": 73.0,
-        "description": "El HAMMER 6 LTE es un teléfono diseñado para resistir los entornos más exigentes, combinando...",
-        "image": "https://m.media-amazon.com/images/I/31eYwWm1X-L._AC_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/hammer-6-lte-telefono-resistente-ip68-con-boton-sos-y-bateria-de-2500mah17"
-    },
-    {
         "id": 2,
         "name": "Teléfono móvil para personas mayores con botón SOS y pantalla a color",
         "price": 39.99,
@@ -46,20 +38,28 @@ const related_products = [
         "link": "/online/categoria/smartphones-y-tablets-innovadores/telefono-movil-para-personas-mayores-con-boton-sos-y-pantalla-a-color2"
     },
     {
-        "id": 11,
-        "name": "Google Pixel 8a - Smartphone Android 128GB con Cámara Inteligente y Diseño Resistente",
-        "price": 580.82,
-        "description": "El Google Pixel 8a redefine lo que esperas de un smartphone. Equipado con la innovadora...",
-        "image": "https://m.media-amazon.com/images/I/71JTIdBUvYL._AC_SX679_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/google-pixel-8a-smartphone-android-128gb-con-camara-inteligente-y-diseno-resistente11"
+        "id": 9,
+        "name": "iPhone 11 Pro de 64 GB en Plata - Tecnología Avanzada y Elegancia",
+        "price": 1109.07,
+        "description": "Experimenta la perfección tecnológica con el iPhone 11 Pro de 64 GB, un dispositivo diseñado...",
+        "image": "https://m.media-amazon.com/images/I/81vZCv9kA0L._AC_SX569_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/iphone-11-pro-de-64-gb-en-plata-tecnologia-avanzada-y-elegancia9"
     },
     {
-        "id": 4,
-        "name": "Tablet de 8 Pulgadas con Cuerpo de Metal Dorado y SIM Dual",
-        "price": 110.58,
-        "description": "Sumérgete en la tecnología avanzada con esta Tablet de 8 pulgadas, diseñada para ofrecer rendimiento,...",
-        "image": "https://m.media-amazon.com/images/I/61jzpFgieRL._AC_SX425_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/tablet-de-8-pulgadas-con-cuerpo-de-metal-dorado-y-sim-dual4"
+        "id": 6,
+        "name": "Tablet HUAWEI MatePad SE 11 Pulgadas con M-Pen Lite y Superbatería de 7700 mAh",
+        "price": 210.18,
+        "description": "La HUAWEI MatePad SE 11 Pulgadas es la combinación perfecta entre diseño elegante y tecnología...",
+        "image": "https://m.media-amazon.com/images/I/61sBnhuQxaL._AC_SX569_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/tablet-huawei-matepad-se-11-pulgadas-con-mpen-lite-y-superbateria-de-7700-mah6"
+    },
+    {
+        "id": 24,
+        "name": "Samsung Galaxy Tab A9+ con pantalla de 11 Pulgadas y 128 GB de almacenamiento",
+        "price": 316.37,
+        "description": "La Samsung Galaxy Tab A9+ es la tablet ideal para quienes buscan combinar estilo, rendimiento...",
+        "image": "https://m.media-amazon.com/images/I/51tmXn9ZiEL._AC_SX569_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/samsung-galaxy-tab-a9-con-pantalla-de-11-pulgadas-y-128-gb-de-almacenamiento24"
     }
 ];
 

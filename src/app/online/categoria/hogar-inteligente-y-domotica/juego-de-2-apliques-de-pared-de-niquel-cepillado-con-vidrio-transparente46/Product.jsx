@@ -30,14 +30,6 @@ const product = {
 // Datos de productos relacionados con enlaces únicos
 const related_products = [
         {
-        "id": 50,
-        "name": "Funda de Edredón King Verde Salvia con Pompones Andency (3 Piezas)",
-        "price": 39.99,
-        "description": "Añade un toque de elegancia y comodidad a tu dormitorio con la funda de edredón...",
-        "image": "https://m.media-amazon.com/images/I/81mgOruo3YL._AC_SX522_.jpg",
-        "link": "/online/categoria/hogar-inteligente-y-domotica/funda-de-edredon-king-verde-salvia-con-pompones-andency-3-piezas50"
-    },
-    {
         "id": 48,
         "name": "Lámpara de Pared Exterior IP54 de Aluminio Antioxidante ZUUKOLE",
         "price": 39.99,
@@ -46,20 +38,28 @@ const related_products = [
         "link": "/online/categoria/hogar-inteligente-y-domotica/lampara-de-pared-exterior-ip54-de-aluminio-antioxidante-zuukole48"
     },
     {
-        "id": 47,
-        "name": "Aplique de Pared LED Negro de 10W IP65 para Interior y Exterior",
-        "price": 26.99,
-        "description": "Ilumina tus espacios con el elegante aplique de pared LED de Sobrovo. Fabricado con aleación...",
-        "image": "https://m.media-amazon.com/images/I/51QWpRMHmhL._AC_SX679_.jpg",
-        "link": "/online/categoria/hogar-inteligente-y-domotica/aplique-de-pared-led-negro-de-10w-ip65-para-interior-y-exterior47"
-    },
-    {
         "id": 49,
         "name": "Juego de Fundas de Edredón de Algodón Ultrasuave Pure Era (3 Piezas)",
         "price": 56.0,
         "description": "Descubre el lujo de dormir con el juego de fundas de edredón Pure Era, diseñado...",
         "image": "https://m.media-amazon.com/images/I/81mujzyfVVL._AC_SX522_.jpg",
         "link": "/online/categoria/hogar-inteligente-y-domotica/juego-de-fundas-de-edredon-de-algodon-ultrasuave-pure-era-3-piezas49"
+    },
+    {
+        "id": 51,
+        "name": "Juego de Funda de Edredón King Verde Salvia Claro CGK Unlimited (3 Piezas)",
+        "price": 24.99,
+        "description": "Renueva tu dormitorio con el lujoso juego de funda de edredón King de CGK Unlimited,...",
+        "image": "https://m.media-amazon.com/images/I/81r4PlsVxmL._AC_SX522_.jpg",
+        "link": "/online/categoria/hogar-inteligente-y-domotica/juego-de-funda-de-edredon-king-verde-salvia-claro-cgk-unlimited-3-piezas51"
+    },
+    {
+        "id": 47,
+        "name": "Aplique de Pared LED Negro de 10W IP65 para Interior y Exterior",
+        "price": 26.99,
+        "description": "Ilumina tus espacios con el elegante aplique de pared LED de Sobrovo. Fabricado con aleación...",
+        "image": "https://m.media-amazon.com/images/I/51QWpRMHmhL._AC_SX679_.jpg",
+        "link": "/online/categoria/hogar-inteligente-y-domotica/aplique-de-pared-led-negro-de-10w-ip65-para-interior-y-exterior47"
     }
 ];
 

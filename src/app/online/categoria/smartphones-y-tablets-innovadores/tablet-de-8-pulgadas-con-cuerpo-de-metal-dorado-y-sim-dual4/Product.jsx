@@ -30,20 +30,12 @@ const product = {
 // Datos de productos relacionados con enlaces únicos
 const related_products = [
         {
-        "id": 13,
-        "name": "vivo Y17s 128GB con Triple Cámara de 50 MP y Pantalla HD+ 6,56 Pulgadas",
-        "price": 157.64,
-        "description": "El vivo Y17s es el smartphone que combina diseño moderno, potencia y versatilidad para ofrecerte...",
-        "image": "https://m.media-amazon.com/images/I/710j3H4fTgL._AC_SX466_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/vivo-y17s-128gb-con-triple-camara-de-50-mp-y-pantalla-hd-656-pulgadas13"
-    },
-    {
-        "id": 28,
-        "name": "Tableta Lenovo Tab M10 Plus 3ª Gen - Pantalla 2K de 10,6 Pulgadas",
-        "price": 252.67,
-        "description": "Disfruta de la tecnología en tus manos con la Lenovo Tab M10 Plus de 3ª...",
-        "image": "https://m.media-amazon.com/images/I/61qjsSp08xL._AC_SX569_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/tableta-lenovo-tab-m10-plus-3ª-gen-pantalla-2k-de-106-pulgadas28"
+        "id": 15,
+        "name": "Samsung Galaxy A25 5G 128GB Negro con Cámara de 50 MP y Carga Rápida",
+        "price": 316.33,
+        "description": "El Samsung Galaxy A25 5G es el smartphone ideal para quienes buscan rendimiento, diseño y...",
+        "image": "https://m.media-amazon.com/images/I/71NcnZFxQDL._AC_SX679_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/samsung-galaxy-a25-5g-128gb-negro-con-camara-de-50-mp-y-carga-rapida15"
     },
     {
         "id": 29,
@@ -54,12 +46,20 @@ const related_products = [
         "link": "/online/categoria/smartphones-y-tablets-innovadores/tableta-pritom-m10-de-10-pulgadas-diseno-versatil-y-seguro-para-toda-la-familia29"
     },
     {
-        "id": 3,
-        "name": "Tablet Android Google Pixel con Pantalla de 11 Pulgadas, IA integrada y batería de larga duración",
-        "price": 619.0,
-        "description": "Descubre la innovación con la Google Pixel Tablet, diseñada para transformar tu experiencia digital. Equipada...",
-        "image": "https://m.media-amazon.com/images/I/71yATvhR3OL._AC_SX569_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/tablet-android-google-pixel-con-pantalla-de-11-pulgadas-ia-integrada-y-bateria-de-larga-duracion3"
+        "id": 6,
+        "name": "Tablet HUAWEI MatePad SE 11 Pulgadas con M-Pen Lite y Superbatería de 7700 mAh",
+        "price": 210.18,
+        "description": "La HUAWEI MatePad SE 11 Pulgadas es la combinación perfecta entre diseño elegante y tecnología...",
+        "image": "https://m.media-amazon.com/images/I/61sBnhuQxaL._AC_SX569_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/tablet-huawei-matepad-se-11-pulgadas-con-mpen-lite-y-superbateria-de-7700-mah6"
+    },
+    {
+        "id": 5,
+        "name": "Tablet Lenovo Tab M9 de 9 Pulgadas HD con Dolby Atmos y Android 12",
+        "price": 94.0,
+        "description": "La Lenovo Tab M9 está diseñada para ofrecerte experiencias digitales inigualables. Su pantalla HD de...",
+        "image": "https://m.media-amazon.com/images/I/617atwaJKLL._AC_SX679_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/tablet-lenovo-tab-m9-de-9-pulgadas-hd-con-dolby-atmos-y-android-125"
     }
 ];
 

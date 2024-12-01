@@ -30,12 +30,28 @@ const product = {
 // Datos de productos relacionados con enlaces únicos
 const related_products = [
         {
-        "id": 30,
-        "name": "PC de Escritorio Dell Optiplex 7050 SFF Reacondicionado con Intel i7 y 32GB RAM",
-        "price": 231.89,
-        "description": "Renueva tu experiencia informática con el PC de Escritorio Dell Optiplex 7050 SFF, un equipo...",
-        "image": "https://m.media-amazon.com/images/I/61FVIijQp2L._AC_SX425_.jpg",
-        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/pc-de-escritorio-dell-optiplex-7050-sff-reacondicionado-con-intel-i7-y-32gb-ram30"
+        "id": 34,
+        "name": "Mini PC HIGOLEPC Win 11 Pro con Pantalla IPS, 8GB RAM y 128GB EMMC",
+        "price": 269.99,
+        "description": "Explora la potencia y portabilidad de la Mini PC HIGOLEPC, diseñada para un rendimiento eficiente...",
+        "image": "https://m.media-amazon.com/images/I/613Znn6NwpL._AC_SY355_.jpg",
+        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/mini-pc-higolepc-win-11-pro-con-pantalla-ips-8gb-ram-y-128gb-emmc34"
+    },
+    {
+        "id": 35,
+        "name": "PC de Escritorio Dell para Juegos RGB con Intel i5 y NVIDIA GT 1030",
+        "price": 291.39,
+        "description": "Experimenta el poder y estilo con la PC de Escritorio Dell para Juegos RGB, diseñada...",
+        "image": "https://m.media-amazon.com/images/I/81U066HOzeL._AC_SX425_.jpg",
+        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/pc-de-escritorio-dell-para-juegos-rgb-con-intel-i5-y-nvidia-gt-103035"
+    },
+    {
+        "id": 36,
+        "name": "Laptop 2 en 1 Samsung Chromebook Plus con Pantalla Táctil FHD de 12.2 Pulgadas",
+        "price": 399.0,
+        "description": "La Samsung Chromebook Plus combina versatilidad y potencia en un diseño compacto y moderno, ideal...",
+        "image": "https://m.media-amazon.com/images/I/81k+w98hRSL._AC_SX425_.jpg",
+        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/laptop-2-en-1-samsung-chromebook-plus-con-pantalla-tactil-fhd-de-122-pulgadas36"
     },
     {
         "id": 8,
@@ -44,22 +60,6 @@ const related_products = [
         "description": "El HONOR MagicBook 16 combina potencia, diseño y funcionalidad en un dispositivo ultrafino y ligero....",
         "image": "https://m.media-amazon.com/images/I/71z52OuhClL._AC_SX569_.jpg",
         "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/portatil-honor-magicbook-16-con-pantalla-fhd-de-144-hz-y-amd-ryzen-5600h8"
-    },
-    {
-        "id": 31,
-        "name": "Mini PC MeLE Quieter 4C N100 Sin Ventilador con RAM de 16GB y 512GB SSD",
-        "price": 229.0,
-        "description": "Descubre la potencia compacta del Mini PC MeLE Quieter 4C, equipado con el procesador Alder...",
-        "image": "https://m.media-amazon.com/images/I/81fw5t8k63L._AC_SX425_.jpg",
-        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/mini-pc-mele-quieter-4c-n100-sin-ventilador-con-ram-de-16gb-y-512gb-ssd31"
-    },
-    {
-        "id": 42,
-        "name": "Chromebook Lenovo Slim 3, 14 Pulgadas, Azul Ligero, 2024",
-        "price": 219.99,
-        "description": "Descubre la combinación perfecta entre estilo, rendimiento y portabilidad con el Chromebook Lenovo Slim 3....",
-        "image": "https://m.media-amazon.com/images/I/61BRKJYlOSL._AC_SX425_.jpg",
-        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/chromebook-lenovo-slim-3-14-pulgadas-azul-ligero-202442"
     }
 ];
 

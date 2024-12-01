@@ -31,36 +31,36 @@ const product = {
 // Datos de productos relacionados con enlaces únicos
 const related_products = [
         {
-        "id": 26,
-        "name": "Samsung Galaxy Tab A7 Lite con pantalla de 8,7 Pulgadas y 64 GB de almacenamiento",
-        "price": 182.77,
-        "description": "La Samsung Galaxy Tab A7 Lite es la opción ideal para quienes buscan una tablet...",
-        "image": "https://m.media-amazon.com/images/I/81XG8dmudVS._AC_SX679_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/samsung-galaxy-tab-a7-lite-con-pantalla-de-87-pulgadas-y-64-gb-de-almacenamiento26"
+        "id": 19,
+        "name": "Smartphone OPPO A80 5G con IA, 16GB RAM y 256GB de Almacenamiento",
+        "price": 263.55,
+        "description": "El OPPO A80 5G es el smartphone diseñado para quienes buscan innovación, diseño y rendimiento...",
+        "image": "https://m.media-amazon.com/images/I/51O1MIzu3oL._AC_SX679_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/smartphone-oppo-a80-5g-con-ia-16gb-ram-y-256gb-de-almacenamiento19"
     },
     {
-        "id": 20,
-        "name": "Smartphone Xiaomi Redmi Note 12 4G con pantalla AMOLED y cámara triple de 50 MP",
-        "price": 188.53,
-        "description": "El Xiaomi Redmi Note 12 4G es el compañero perfecto para quienes buscan un smartphone...",
-        "image": "https://m.media-amazon.com/images/I/61r7Asz11RL._AC_SX679_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/smartphone-xiaomi-redmi-note-12-4g-con-pantalla-amoled-y-camara-triple-de-50-mp20"
+        "id": 14,
+        "name": "HUAWEI Pura 70 Ultra 512GB Verde con Cámara Emergente y SuperCharge de 100W",
+        "price": 1585.92,
+        "description": "El HUAWEI Pura 70 Ultra es la combinación perfecta de tecnología avanzada y diseño artístico....",
+        "image": "https://m.media-amazon.com/images/I/71-W9YVyc5L._AC_SX569_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/huawei-pura-70-ultra-512gb-verde-con-camara-emergente-y-supercharge-de-100w14"
     },
     {
-        "id": 10,
-        "name": "OPPO A60 4G - Smartphone Libre 256GB, Pantalla HD+ 6.7 Pulgadas y Carga Rápida",
-        "price": 210.5,
-        "description": "Descubre el equilibrio perfecto entre diseño, rendimiento y funcionalidad con el OPPO A60 4G. Este...",
-        "image": "https://m.media-amazon.com/images/I/81hygajaQnL._AC_SX679_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/oppo-a60-4g-smartphone-libre-256gb-pantalla-hd-67-pulgadas-y-carga-rapida10"
+        "id": 27,
+        "name": "Xiaomi Pad 6 – Tablet WQHD+ de 11 Pulgadas con Snapdragon 870 y batería de 8840 mAh",
+        "price": 253.89,
+        "description": "La Xiaomi Pad 6 es la tablet diseñada para quienes buscan un equilibrio entre rendimiento,...",
+        "image": "https://m.media-amazon.com/images/I/61CXBT8IXtL._AC_SX569_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/xiaomi-pad-6-tablet-wqhd-de-11-pulgadas-con-snapdragon-870-y-bateria-de-8840-mah27"
     },
     {
-        "id": 13,
-        "name": "vivo Y17s 128GB con Triple Cámara de 50 MP y Pantalla HD+ 6,56 Pulgadas",
-        "price": 157.64,
-        "description": "El vivo Y17s es el smartphone que combina diseño moderno, potencia y versatilidad para ofrecerte...",
-        "image": "https://m.media-amazon.com/images/I/710j3H4fTgL._AC_SX466_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/vivo-y17s-128gb-con-triple-camara-de-50-mp-y-pantalla-hd-656-pulgadas13"
+        "id": 25,
+        "name": "Acer Iconia Tab M10 con pantalla WUXGA de 10,1 Pulgadas y funda incluida",
+        "price": 199.96,
+        "description": "La Acer Iconia Tab M10 es una tablet diseñada para ofrecer rendimiento, calidad visual y...",
+        "image": "https://m.media-amazon.com/images/I/71XKX8Z5QBL._AC_SX679_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/acer-iconia-tab-m10-con-pantalla-wuxga-de-101-pulgadas-y-funda-incluida25"
     }
 ];
 

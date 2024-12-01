@@ -31,12 +31,20 @@ const product = {
 // Datos de productos relacionados con enlaces únicos
 const related_products = [
         {
-        "id": 17,
-        "name": "HAMMER 6 LTE - Teléfono Resistente IP68 con Botón SOS y Batería de 2500mAh",
-        "price": 73.0,
-        "description": "El HAMMER 6 LTE es un teléfono diseñado para resistir los entornos más exigentes, combinando...",
-        "image": "https://m.media-amazon.com/images/I/31eYwWm1X-L._AC_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/hammer-6-lte-telefono-resistente-ip68-con-boton-sos-y-bateria-de-2500mah17"
+        "id": 19,
+        "name": "Smartphone OPPO A80 5G con IA, 16GB RAM y 256GB de Almacenamiento",
+        "price": 263.55,
+        "description": "El OPPO A80 5G es el smartphone diseñado para quienes buscan innovación, diseño y rendimiento...",
+        "image": "https://m.media-amazon.com/images/I/51O1MIzu3oL._AC_SX679_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/smartphone-oppo-a80-5g-con-ia-16gb-ram-y-256gb-de-almacenamiento19"
+    },
+    {
+        "id": 4,
+        "name": "Tablet de 8 Pulgadas con Cuerpo de Metal Dorado y SIM Dual",
+        "price": 110.58,
+        "description": "Sumérgete en la tecnología avanzada con esta Tablet de 8 pulgadas, diseñada para ofrecer rendimiento,...",
+        "image": "https://m.media-amazon.com/images/I/61jzpFgieRL._AC_SX425_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/tablet-de-8-pulgadas-con-cuerpo-de-metal-dorado-y-sim-dual4"
     },
     {
         "id": 5,
@@ -47,20 +55,12 @@ const related_products = [
         "link": "/online/categoria/smartphones-y-tablets-innovadores/tablet-lenovo-tab-m9-de-9-pulgadas-hd-con-dolby-atmos-y-android-125"
     },
     {
-        "id": 10,
-        "name": "OPPO A60 4G - Smartphone Libre 256GB, Pantalla HD+ 6.7 Pulgadas y Carga Rápida",
-        "price": 210.5,
-        "description": "Descubre el equilibrio perfecto entre diseño, rendimiento y funcionalidad con el OPPO A60 4G. Este...",
-        "image": "https://m.media-amazon.com/images/I/81hygajaQnL._AC_SX679_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/oppo-a60-4g-smartphone-libre-256gb-pantalla-hd-67-pulgadas-y-carga-rapida10"
-    },
-    {
-        "id": 27,
-        "name": "Xiaomi Pad 6 – Tablet WQHD+ de 11 Pulgadas con Snapdragon 870 y batería de 8840 mAh",
-        "price": 253.89,
-        "description": "La Xiaomi Pad 6 es la tablet diseñada para quienes buscan un equilibrio entre rendimiento,...",
-        "image": "https://m.media-amazon.com/images/I/61CXBT8IXtL._AC_SX569_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/xiaomi-pad-6-tablet-wqhd-de-11-pulgadas-con-snapdragon-870-y-bateria-de-8840-mah27"
+        "id": 13,
+        "name": "vivo Y17s 128GB con Triple Cámara de 50 MP y Pantalla HD+ 6,56 Pulgadas",
+        "price": 157.64,
+        "description": "El vivo Y17s es el smartphone que combina diseño moderno, potencia y versatilidad para ofrecerte...",
+        "image": "https://m.media-amazon.com/images/I/710j3H4fTgL._AC_SX466_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/vivo-y17s-128gb-con-triple-camara-de-50-mp-y-pantalla-hd-656-pulgadas13"
     }
 ];
 

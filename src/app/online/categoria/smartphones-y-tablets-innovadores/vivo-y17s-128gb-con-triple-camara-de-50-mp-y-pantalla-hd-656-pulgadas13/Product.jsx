@@ -30,36 +30,36 @@ const product = {
 // Datos de productos relacionados con enlaces únicos
 const related_products = [
         {
-        "id": 6,
-        "name": "Tablet HUAWEI MatePad SE 11 Pulgadas con M-Pen Lite y Superbatería de 7700 mAh",
-        "price": 210.18,
-        "description": "La HUAWEI MatePad SE 11 Pulgadas es la combinación perfecta entre diseño elegante y tecnología...",
-        "image": "https://m.media-amazon.com/images/I/61sBnhuQxaL._AC_SX569_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/tablet-huawei-matepad-se-11-pulgadas-con-mpen-lite-y-superbateria-de-7700-mah6"
+        "id": 29,
+        "name": "Tableta PRITOM M10 de 10 Pulgadas - Diseño Versátil y Seguro para Toda la Familia",
+        "price": 80.4,
+        "description": "La PRITOM M10 es una tableta Android 12 que combina rendimiento, funcionalidad y diseño pensado...",
+        "image": "https://m.media-amazon.com/images/I/61dCzmCA+AL._AC_SX569_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/tableta-pritom-m10-de-10-pulgadas-diseno-versatil-y-seguro-para-toda-la-familia29"
     },
     {
-        "id": 22,
-        "name": "Motorola Moto G24 con cámara de 50 MP y batería de 5000 mAh",
-        "price": 107.78,
-        "description": "El Motorola Moto G24 combina diseño, rendimiento y tecnología avanzada en un smartphone accesible. Su...",
-        "image": "https://m.media-amazon.com/images/I/61DrWxtwM5L._AC_SX569_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/motorola-moto-g24-con-camara-de-50-mp-y-bateria-de-5000-mah22"
+        "id": 20,
+        "name": "Smartphone Xiaomi Redmi Note 12 4G con pantalla AMOLED y cámara triple de 50 MP",
+        "price": 188.53,
+        "description": "El Xiaomi Redmi Note 12 4G es el compañero perfecto para quienes buscan un smartphone...",
+        "image": "https://m.media-amazon.com/images/I/61r7Asz11RL._AC_SX679_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/smartphone-xiaomi-redmi-note-12-4g-con-pantalla-amoled-y-camara-triple-de-50-mp20"
     },
     {
-        "id": 15,
-        "name": "Samsung Galaxy A25 5G 128GB Negro con Cámara de 50 MP y Carga Rápida",
-        "price": 316.33,
-        "description": "El Samsung Galaxy A25 5G es el smartphone ideal para quienes buscan rendimiento, diseño y...",
-        "image": "https://m.media-amazon.com/images/I/71NcnZFxQDL._AC_SX679_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/samsung-galaxy-a25-5g-128gb-negro-con-camara-de-50-mp-y-carga-rapida15"
+        "id": 16,
+        "name": "Panasonic KX-TU400EXC Teléfono para Mayores con Botón SOS y Cámara - Turquesa",
+        "price": 52.88,
+        "description": "El Panasonic KX-TU400EXC es un teléfono móvil diseñado especialmente para personas mayores, combinando facilidad de...",
+        "image": "https://m.media-amazon.com/images/I/41NgNigFmbL._AC_SX679_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/panasonic-kxtu400exc-telefono-para-mayores-con-boton-sos-y-camara-turquesa16"
     },
     {
-        "id": 12,
-        "name": "Motorola Moto g24 128GB Dual SIM con Cámara 50MP y Pantalla HD+ 90Hz",
-        "price": 115.3,
-        "description": "El Motorola Moto g24 combina estilo, rendimiento y funcionalidad a un precio accesible. Este smartphone...",
-        "image": "https://m.media-amazon.com/images/I/61GkKd1A0GL._AC_SX679_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/motorola-moto-g24-128gb-dual-sim-con-camara-50mp-y-pantalla-hd-90hz12"
+        "id": 19,
+        "name": "Smartphone OPPO A80 5G con IA, 16GB RAM y 256GB de Almacenamiento",
+        "price": 263.55,
+        "description": "El OPPO A80 5G es el smartphone diseñado para quienes buscan innovación, diseño y rendimiento...",
+        "image": "https://m.media-amazon.com/images/I/51O1MIzu3oL._AC_SX679_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/smartphone-oppo-a80-5g-con-ia-16gb-ram-y-256gb-de-almacenamiento19"
     }
 ];
 

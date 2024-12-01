@@ -30,36 +30,36 @@ const product = {
 // Datos de productos relacionados con enlaces únicos
 const related_products = [
         {
-        "id": 4,
-        "name": "Tablet de 8 Pulgadas con Cuerpo de Metal Dorado y SIM Dual",
-        "price": 110.58,
-        "description": "Sumérgete en la tecnología avanzada con esta Tablet de 8 pulgadas, diseñada para ofrecer rendimiento,...",
-        "image": "https://m.media-amazon.com/images/I/61jzpFgieRL._AC_SX425_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/tablet-de-8-pulgadas-con-cuerpo-de-metal-dorado-y-sim-dual4"
+        "id": 11,
+        "name": "Google Pixel 8a - Smartphone Android 128GB con Cámara Inteligente y Diseño Resistente",
+        "price": 580.82,
+        "description": "El Google Pixel 8a redefine lo que esperas de un smartphone. Equipado con la innovadora...",
+        "image": "https://m.media-amazon.com/images/I/71JTIdBUvYL._AC_SX679_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/google-pixel-8a-smartphone-android-128gb-con-camara-inteligente-y-diseno-resistente11"
     },
     {
-        "id": 21,
-        "name": "Smartphone SPC Zeus 4G Pro para Mayores con Botón SOS y Base de Carga",
-        "price": 169.22,
-        "description": "El SPC Zeus 4G Pro es el smartphone ideal para personas mayores que buscan simplicidad,...",
-        "image": "https://m.media-amazon.com/images/I/6165IIIWIKL._AC_SX679_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/smartphone-spc-zeus-4g-pro-para-mayores-con-boton-sos-y-base-de-carga21"
+        "id": 12,
+        "name": "Motorola Moto g24 128GB Dual SIM con Cámara 50MP y Pantalla HD+ 90Hz",
+        "price": 115.3,
+        "description": "El Motorola Moto g24 combina estilo, rendimiento y funcionalidad a un precio accesible. Este smartphone...",
+        "image": "https://m.media-amazon.com/images/I/61GkKd1A0GL._AC_SX679_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/motorola-moto-g24-128gb-dual-sim-con-camara-50mp-y-pantalla-hd-90hz12"
     },
     {
-        "id": 29,
-        "name": "Tableta PRITOM M10 de 10 Pulgadas - Diseño Versátil y Seguro para Toda la Familia",
-        "price": 80.4,
-        "description": "La PRITOM M10 es una tableta Android 12 que combina rendimiento, funcionalidad y diseño pensado...",
-        "image": "https://m.media-amazon.com/images/I/61dCzmCA+AL._AC_SX569_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/tableta-pritom-m10-de-10-pulgadas-diseno-versatil-y-seguro-para-toda-la-familia29"
+        "id": 13,
+        "name": "vivo Y17s 128GB con Triple Cámara de 50 MP y Pantalla HD+ 6,56 Pulgadas",
+        "price": 157.64,
+        "description": "El vivo Y17s es el smartphone que combina diseño moderno, potencia y versatilidad para ofrecerte...",
+        "image": "https://m.media-amazon.com/images/I/710j3H4fTgL._AC_SX466_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/vivo-y17s-128gb-con-triple-camara-de-50-mp-y-pantalla-hd-656-pulgadas13"
     },
     {
-        "id": 2,
-        "name": "Teléfono móvil para personas mayores con botón SOS y pantalla a color",
-        "price": 39.99,
-        "description": "El teléfono Panasonic KX-TU400EXG está diseñado pensando en la comodidad y seguridad de los adultos...",
-        "image": "https://m.media-amazon.com/images/I/61dgkB6MmVL._AC_SX679_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/telefono-movil-para-personas-mayores-con-boton-sos-y-pantalla-a-color2"
+        "id": 24,
+        "name": "Samsung Galaxy Tab A9+ con pantalla de 11 Pulgadas y 128 GB de almacenamiento",
+        "price": 316.37,
+        "description": "La Samsung Galaxy Tab A9+ es la tablet ideal para quienes buscan combinar estilo, rendimiento...",
+        "image": "https://m.media-amazon.com/images/I/51tmXn9ZiEL._AC_SX569_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/samsung-galaxy-tab-a9-con-pantalla-de-11-pulgadas-y-128-gb-de-almacenamiento24"
     }
 ];
 

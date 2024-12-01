@@ -31,12 +31,12 @@ const product = {
 // Datos de productos relacionados con enlaces únicos
 const related_products = [
         {
-        "id": 51,
-        "name": "Juego de Funda de Edredón King Verde Salvia Claro CGK Unlimited (3 Piezas)",
-        "price": 24.99,
-        "description": "Renueva tu dormitorio con el lujoso juego de funda de edredón King de CGK Unlimited,...",
-        "image": "https://m.media-amazon.com/images/I/81r4PlsVxmL._AC_SX522_.jpg",
-        "link": "/online/categoria/hogar-inteligente-y-domotica/juego-de-funda-de-edredon-king-verde-salvia-claro-cgk-unlimited-3-piezas51"
+        "id": 49,
+        "name": "Juego de Fundas de Edredón de Algodón Ultrasuave Pure Era (3 Piezas)",
+        "price": 56.0,
+        "description": "Descubre el lujo de dormir con el juego de fundas de edredón Pure Era, diseñado...",
+        "image": "https://m.media-amazon.com/images/I/81mujzyfVVL._AC_SX522_.jpg",
+        "link": "/online/categoria/hogar-inteligente-y-domotica/juego-de-fundas-de-edredon-de-algodon-ultrasuave-pure-era-3-piezas49"
     },
     {
         "id": 45,
@@ -47,12 +47,12 @@ const related_products = [
         "link": "/online/categoria/hogar-inteligente-y-domotica/maquina-de-sonido-y-reloj-despertador-con-luz-lunar-homedics45"
     },
     {
-        "id": 46,
-        "name": "Juego de 2 Apliques de Pared de Níquel Cepillado con Vidrio Transparente",
-        "price": 37.99,
-        "description": "Añade un toque moderno y sofisticado a tus espacios con el juego de 2 apliques...",
-        "image": "https://m.media-amazon.com/images/I/612R-3BVz0L._AC_SX522_.jpg",
-        "link": "/online/categoria/hogar-inteligente-y-domotica/juego-de-2-apliques-de-pared-de-niquel-cepillado-con-vidrio-transparente46"
+        "id": 47,
+        "name": "Aplique de Pared LED Negro de 10W IP65 para Interior y Exterior",
+        "price": 26.99,
+        "description": "Ilumina tus espacios con el elegante aplique de pared LED de Sobrovo. Fabricado con aleación...",
+        "image": "https://m.media-amazon.com/images/I/51QWpRMHmhL._AC_SX679_.jpg",
+        "link": "/online/categoria/hogar-inteligente-y-domotica/aplique-de-pared-led-negro-de-10w-ip65-para-interior-y-exterior47"
     },
     {
         "id": 50,

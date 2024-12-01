@@ -31,36 +31,36 @@ const product = {
 // Datos de productos relacionados con enlaces únicos
 const related_products = [
         {
-        "id": 34,
-        "name": "Mini PC HIGOLEPC Win 11 Pro con Pantalla IPS, 8GB RAM y 128GB EMMC",
-        "price": 269.99,
-        "description": "Explora la potencia y portabilidad de la Mini PC HIGOLEPC, diseñada para un rendimiento eficiente...",
-        "image": "https://m.media-amazon.com/images/I/613Znn6NwpL._AC_SY355_.jpg",
-        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/mini-pc-higolepc-win-11-pro-con-pantalla-ips-8gb-ram-y-128gb-emmc34"
+        "id": 7,
+        "name": "Portátil Acer Chromebook 314 de 14 pulgadas con ChromeOS y SSD de 64 GB",
+        "price": 270.45,
+        "description": "El Acer Chromebook 314 combina rendimiento, ligereza y eficiencia, siendo la herramienta ideal para estudiantes,...",
+        "image": "https://m.media-amazon.com/images/I/41Y3jkOcEKL._AC_SX569_.jpg",
+        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/portatil-acer-chromebook-314-de-14-pulgadas-con-chromeos-y-ssd-de-64-gb7"
     },
     {
-        "id": 32,
-        "name": "Mini PC MeLE Quieter2Q Sin Ventilador con 8GB RAM y 128GB Almacenamiento",
-        "price": 169.99,
-        "description": "Maximiza tu productividad con el Mini PC MeLE Quieter2Q, diseñado para ofrecer un rendimiento silencioso...",
-        "image": "https://m.media-amazon.com/images/I/711gBTGdAQL._AC_SX425_.jpg",
-        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/mini-pc-mele-quieter2q-sin-ventilador-con-8gb-ram-y-128gb-almacenamiento32"
+        "id": 8,
+        "name": "Portátil HONOR MagicBook 16 con Pantalla FHD de 144 Hz y AMD Ryzen 5600H",
+        "price": 1055.32,
+        "description": "El HONOR MagicBook 16 combina potencia, diseño y funcionalidad en un dispositivo ultrafino y ligero....",
+        "image": "https://m.media-amazon.com/images/I/71z52OuhClL._AC_SX569_.jpg",
+        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/portatil-honor-magicbook-16-con-pantalla-fhd-de-144-hz-y-amd-ryzen-5600h8"
     },
     {
-        "id": 30,
-        "name": "PC de Escritorio Dell Optiplex 7050 SFF Reacondicionado con Intel i7 y 32GB RAM",
-        "price": 231.89,
-        "description": "Renueva tu experiencia informática con el PC de Escritorio Dell Optiplex 7050 SFF, un equipo...",
-        "image": "https://m.media-amazon.com/images/I/61FVIijQp2L._AC_SX425_.jpg",
-        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/pc-de-escritorio-dell-optiplex-7050-sff-reacondicionado-con-intel-i7-y-32gb-ram30"
+        "id": 38,
+        "name": "Laptop CHUWI HeroBook Pro 14.1 Pulgadas con Pantalla FHD 2K y SSD de 256GB",
+        "price": 199.99,
+        "description": "La CHUWI HeroBook Pro ofrece un equilibrio perfecto entre diseño, potencia y portabilidad. Equipada con...",
+        "image": "https://m.media-amazon.com/images/I/61Iyy+2damL._AC_SX522_.jpg",
+        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/laptop-chuwi-herobook-pro-141-pulgadas-con-pantalla-fhd-2k-y-ssd-de-256gb38"
     },
     {
-        "id": 37,
-        "name": "HP Laptop 14 HD Microborde con Intel Celeron N4020 y Windows 11 Home",
-        "price": 209.99,
-        "description": "La HP Laptop 14 es la combinación perfecta de portabilidad y rendimiento para el día...",
-        "image": "https://m.media-amazon.com/images/I/815uX7wkOZS._AC_SY450_.jpg",
-        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/hp-laptop-14-hd-microborde-con-intel-celeron-n4020-y-windows-11-home37"
+        "id": 36,
+        "name": "Laptop 2 en 1 Samsung Chromebook Plus con Pantalla Táctil FHD de 12.2 Pulgadas",
+        "price": 399.0,
+        "description": "La Samsung Chromebook Plus combina versatilidad y potencia en un diseño compacto y moderno, ideal...",
+        "image": "https://m.media-amazon.com/images/I/81k+w98hRSL._AC_SX425_.jpg",
+        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/laptop-2-en-1-samsung-chromebook-plus-con-pantalla-tactil-fhd-de-122-pulgadas36"
     }
 ];
 

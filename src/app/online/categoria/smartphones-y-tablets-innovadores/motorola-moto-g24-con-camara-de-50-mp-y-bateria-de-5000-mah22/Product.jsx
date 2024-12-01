@@ -31,6 +31,22 @@ const product = {
 // Datos de productos relacionados con enlaces únicos
 const related_products = [
         {
+        "id": 13,
+        "name": "vivo Y17s 128GB con Triple Cámara de 50 MP y Pantalla HD+ 6,56 Pulgadas",
+        "price": 157.64,
+        "description": "El vivo Y17s es el smartphone que combina diseño moderno, potencia y versatilidad para ofrecerte...",
+        "image": "https://m.media-amazon.com/images/I/710j3H4fTgL._AC_SX466_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/vivo-y17s-128gb-con-triple-camara-de-50-mp-y-pantalla-hd-656-pulgadas13"
+    },
+    {
+        "id": 27,
+        "name": "Xiaomi Pad 6 – Tablet WQHD+ de 11 Pulgadas con Snapdragon 870 y batería de 8840 mAh",
+        "price": 253.89,
+        "description": "La Xiaomi Pad 6 es la tablet diseñada para quienes buscan un equilibrio entre rendimiento,...",
+        "image": "https://m.media-amazon.com/images/I/61CXBT8IXtL._AC_SX569_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/xiaomi-pad-6-tablet-wqhd-de-11-pulgadas-con-snapdragon-870-y-bateria-de-8840-mah27"
+    },
+    {
         "id": 28,
         "name": "Tableta Lenovo Tab M10 Plus 3ª Gen - Pantalla 2K de 10,6 Pulgadas",
         "price": 252.67,
@@ -39,28 +55,12 @@ const related_products = [
         "link": "/online/categoria/smartphones-y-tablets-innovadores/tableta-lenovo-tab-m10-plus-3ª-gen-pantalla-2k-de-106-pulgadas28"
     },
     {
-        "id": 14,
-        "name": "HUAWEI Pura 70 Ultra 512GB Verde con Cámara Emergente y SuperCharge de 100W",
-        "price": 1585.92,
-        "description": "El HUAWEI Pura 70 Ultra es la combinación perfecta de tecnología avanzada y diseño artístico....",
-        "image": "https://m.media-amazon.com/images/I/71-W9YVyc5L._AC_SX569_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/huawei-pura-70-ultra-512gb-verde-con-camara-emergente-y-supercharge-de-100w14"
-    },
-    {
-        "id": 11,
-        "name": "Google Pixel 8a - Smartphone Android 128GB con Cámara Inteligente y Diseño Resistente",
-        "price": 580.82,
-        "description": "El Google Pixel 8a redefine lo que esperas de un smartphone. Equipado con la innovadora...",
-        "image": "https://m.media-amazon.com/images/I/71JTIdBUvYL._AC_SX679_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/google-pixel-8a-smartphone-android-128gb-con-camara-inteligente-y-diseno-resistente11"
-    },
-    {
-        "id": 9,
-        "name": "iPhone 11 Pro de 64 GB en Plata - Tecnología Avanzada y Elegancia",
-        "price": 1109.07,
-        "description": "Experimenta la perfección tecnológica con el iPhone 11 Pro de 64 GB, un dispositivo diseñado...",
-        "image": "https://m.media-amazon.com/images/I/81vZCv9kA0L._AC_SX569_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/iphone-11-pro-de-64-gb-en-plata-tecnologia-avanzada-y-elegancia9"
+        "id": 26,
+        "name": "Samsung Galaxy Tab A7 Lite con pantalla de 8,7 Pulgadas y 64 GB de almacenamiento",
+        "price": 182.77,
+        "description": "La Samsung Galaxy Tab A7 Lite es la opción ideal para quienes buscan una tablet...",
+        "image": "https://m.media-amazon.com/images/I/81XG8dmudVS._AC_SX679_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/samsung-galaxy-tab-a7-lite-con-pantalla-de-87-pulgadas-y-64-gb-de-almacenamiento26"
     }
 ];
 

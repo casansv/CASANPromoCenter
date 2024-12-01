@@ -31,28 +31,28 @@ const product = {
 // Datos de productos relacionados con enlaces únicos
 const related_products = [
         {
+        "id": 30,
+        "name": "PC de Escritorio Dell Optiplex 7050 SFF Reacondicionado con Intel i7 y 32GB RAM",
+        "price": 231.89,
+        "description": "Renueva tu experiencia informática con el PC de Escritorio Dell Optiplex 7050 SFF, un equipo...",
+        "image": "https://m.media-amazon.com/images/I/61FVIijQp2L._AC_SX425_.jpg",
+        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/pc-de-escritorio-dell-optiplex-7050-sff-reacondicionado-con-intel-i7-y-32gb-ram30"
+    },
+    {
+        "id": 8,
+        "name": "Portátil HONOR MagicBook 16 con Pantalla FHD de 144 Hz y AMD Ryzen 5600H",
+        "price": 1055.32,
+        "description": "El HONOR MagicBook 16 combina potencia, diseño y funcionalidad en un dispositivo ultrafino y ligero....",
+        "image": "https://m.media-amazon.com/images/I/71z52OuhClL._AC_SX569_.jpg",
+        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/portatil-honor-magicbook-16-con-pantalla-fhd-de-144-hz-y-amd-ryzen-5600h8"
+    },
+    {
         "id": 34,
         "name": "Mini PC HIGOLEPC Win 11 Pro con Pantalla IPS, 8GB RAM y 128GB EMMC",
         "price": 269.99,
         "description": "Explora la potencia y portabilidad de la Mini PC HIGOLEPC, diseñada para un rendimiento eficiente...",
         "image": "https://m.media-amazon.com/images/I/613Znn6NwpL._AC_SY355_.jpg",
         "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/mini-pc-higolepc-win-11-pro-con-pantalla-ips-8gb-ram-y-128gb-emmc34"
-    },
-    {
-        "id": 40,
-        "name": "Chromebook ASUS CX1, 14 Pulgadas, Plata Transparente",
-        "price": 209.99,
-        "description": "Descubre el rendimiento eficiente y la versatilidad del Chromebook ASUS CX1, diseñado para ofrecerte productividad...",
-        "image": "https://m.media-amazon.com/images/I/71oYSGF0gVS._AC_SX425_.jpg",
-        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/chromebook-asus-cx1-14-pulgadas-plata-transparente40"
-    },
-    {
-        "id": 44,
-        "name": "Mini PC para Juegos AMD Ryzen 7, 16 GB RAM, 512 GB SSD, Windows 11 Pro",
-        "price": 349.0,
-        "description": "Disfruta de la máxima potencia en el menor espacio con la Mini PC para Juegos...",
-        "image": "https://m.media-amazon.com/images/I/71iYRkJS1pL._AC_SX425_.jpg",
-        "link": "/online/categoria/laptops-y-accesorios-de-alto-rendimiento/mini-pc-para-juegos-amd-ryzen-7-16-gb-ram-512-gb-ssd-windows-11-pro44"
     },
     {
         "id": 43,

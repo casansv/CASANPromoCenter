@@ -30,20 +30,28 @@ const product = {
 // Datos de productos relacionados con enlaces únicos
 const related_products = [
         {
-        "id": 24,
-        "name": "Samsung Galaxy Tab A9+ con pantalla de 11 Pulgadas y 128 GB de almacenamiento",
-        "price": 316.37,
-        "description": "La Samsung Galaxy Tab A9+ es la tablet ideal para quienes buscan combinar estilo, rendimiento...",
-        "image": "https://m.media-amazon.com/images/I/51tmXn9ZiEL._AC_SX569_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/samsung-galaxy-tab-a9-con-pantalla-de-11-pulgadas-y-128-gb-de-almacenamiento24"
+        "id": 21,
+        "name": "Smartphone SPC Zeus 4G Pro para Mayores con Botón SOS y Base de Carga",
+        "price": 169.22,
+        "description": "El SPC Zeus 4G Pro es el smartphone ideal para personas mayores que buscan simplicidad,...",
+        "image": "https://m.media-amazon.com/images/I/6165IIIWIKL._AC_SX679_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/smartphone-spc-zeus-4g-pro-para-mayores-con-boton-sos-y-base-de-carga21"
     },
     {
-        "id": 25,
-        "name": "Acer Iconia Tab M10 con pantalla WUXGA de 10,1 Pulgadas y funda incluida",
-        "price": 199.96,
-        "description": "La Acer Iconia Tab M10 es una tablet diseñada para ofrecer rendimiento, calidad visual y...",
-        "image": "https://m.media-amazon.com/images/I/71XKX8Z5QBL._AC_SX679_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/acer-iconia-tab-m10-con-pantalla-wuxga-de-101-pulgadas-y-funda-incluida25"
+        "id": 27,
+        "name": "Xiaomi Pad 6 – Tablet WQHD+ de 11 Pulgadas con Snapdragon 870 y batería de 8840 mAh",
+        "price": 253.89,
+        "description": "La Xiaomi Pad 6 es la tablet diseñada para quienes buscan un equilibrio entre rendimiento,...",
+        "image": "https://m.media-amazon.com/images/I/61CXBT8IXtL._AC_SX569_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/xiaomi-pad-6-tablet-wqhd-de-11-pulgadas-con-snapdragon-870-y-bateria-de-8840-mah27"
+    },
+    {
+        "id": 17,
+        "name": "HAMMER 6 LTE - Teléfono Resistente IP68 con Botón SOS y Batería de 2500mAh",
+        "price": 73.0,
+        "description": "El HAMMER 6 LTE es un teléfono diseñado para resistir los entornos más exigentes, combinando...",
+        "image": "https://m.media-amazon.com/images/I/31eYwWm1X-L._AC_.jpg",
+        "link": "/online/categoria/smartphones-y-tablets-innovadores/hammer-6-lte-telefono-resistente-ip68-con-boton-sos-y-bateria-de-2500mah17"
     },
     {
         "id": 28,
@@ -52,14 +60,6 @@ const related_products = [
         "description": "Disfruta de la tecnología en tus manos con la Lenovo Tab M10 Plus de 3ª...",
         "image": "https://m.media-amazon.com/images/I/61qjsSp08xL._AC_SX569_.jpg",
         "link": "/online/categoria/smartphones-y-tablets-innovadores/tableta-lenovo-tab-m10-plus-3ª-gen-pantalla-2k-de-106-pulgadas28"
-    },
-    {
-        "id": 23,
-        "name": "Samsung Galaxy Tab A9+ con pantalla de 11 Pulgadas y 64 GB de almacenamiento",
-        "price": 191.04,
-        "description": "La Samsung Galaxy Tab A9+ es la tablet perfecta para quienes buscan un dispositivo versátil,...",
-        "image": "https://m.media-amazon.com/images/I/41H+jR14XBL._AC_SX522_.jpg",
-        "link": "/online/categoria/smartphones-y-tablets-innovadores/samsung-galaxy-tab-a9-con-pantalla-de-11-pulgadas-y-64-gb-de-almacenamiento23"
     }
 ];
 

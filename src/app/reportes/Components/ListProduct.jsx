@@ -12,28 +12,263 @@ export default function ListProduct() {
     // Lista de productos con nombre, imagen y enlace de reporte
     const productos = [
                 {
-            Nombre: "TEST1",
-            Imagen: "img1.png",
+            Nombre: "Zapatos de Flamenco para Niña y Mujer 'La Señorita' - Clásicos, Cómodos y con Suela de Goma para Bailar Sevillanas",
+            Imagen: "https://m.media-amazon.com/images/I/414fbumth1L._AC_SX575_.jpg",
             Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
         },
         {
-            Nombre: "TEST2",
-            Imagen: "img1.png",
+            Nombre: "Teléfono móvil para personas mayores con botón SOS y pantalla a color",
+            Imagen: "https://m.media-amazon.com/images/I/61dgkB6MmVL._AC_SX679_.jpg",
             Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
         },
         {
-            Nombre: "TEST3 PERO MODIFICADO",
-            Imagen: "img1.png",
+            Nombre: "Tablet Android Google Pixel con Pantalla de 11 Pulgadas, IA integrada y batería de larga duración",
+            Imagen: "https://m.media-amazon.com/images/I/71yATvhR3OL._AC_SX569_.jpg",
             Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
         },
         {
-            Nombre: "TEST1",
-            Imagen: "img1.png",
+            Nombre: "Tablet de 8 Pulgadas con Cuerpo de Metal Dorado y SIM Dual",
+            Imagen: "https://m.media-amazon.com/images/I/61jzpFgieRL._AC_SX425_.jpg",
             Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
         },
         {
-            Nombre: "Telefono inteligente 91",
-            Imagen: "asd1.png",
+            Nombre: "Tablet Lenovo Tab M9 de 9 Pulgadas HD con Dolby Atmos y Android 12",
+            Imagen: "https://m.media-amazon.com/images/I/617atwaJKLL._AC_SX679_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "Tablet HUAWEI MatePad SE 11 Pulgadas con M-Pen Lite y Superbatería de 7700 mAh",
+            Imagen: "https://m.media-amazon.com/images/I/61sBnhuQxaL._AC_SX569_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "Portátil Acer Chromebook 314 de 14 pulgadas con ChromeOS y SSD de 64 GB",
+            Imagen: "https://m.media-amazon.com/images/I/41Y3jkOcEKL._AC_SX569_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "Portátil HONOR MagicBook 16 con Pantalla FHD de 144 Hz y AMD Ryzen 5600H",
+            Imagen: "https://m.media-amazon.com/images/I/71z52OuhClL._AC_SX569_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "iPhone 11 Pro de 64 GB en Plata - Tecnología Avanzada y Elegancia",
+            Imagen: "https://m.media-amazon.com/images/I/81vZCv9kA0L._AC_SX569_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "OPPO A60 4G - Smartphone Libre 256GB, Pantalla HD+ 6.7 Pulgadas y Carga Rápida",
+            Imagen: "https://m.media-amazon.com/images/I/81hygajaQnL._AC_SX679_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "Google Pixel 8a - Smartphone Android 128GB con Cámara Inteligente y Diseño Resistente",
+            Imagen: "https://m.media-amazon.com/images/I/71JTIdBUvYL._AC_SX679_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "Motorola Moto g24 128GB Dual SIM con Cámara 50MP y Pantalla HD+ 90Hz",
+            Imagen: "https://m.media-amazon.com/images/I/61GkKd1A0GL._AC_SX679_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "vivo Y17s 128GB con Triple Cámara de 50 MP y Pantalla HD+ 6,56 Pulgadas",
+            Imagen: "https://m.media-amazon.com/images/I/710j3H4fTgL._AC_SX466_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "HUAWEI Pura 70 Ultra 512GB Verde con Cámara Emergente y SuperCharge de 100W",
+            Imagen: "https://m.media-amazon.com/images/I/71-W9YVyc5L._AC_SX569_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "Samsung Galaxy A25 5G 128GB Negro con Cámara de 50 MP y Carga Rápida",
+            Imagen: "https://m.media-amazon.com/images/I/71NcnZFxQDL._AC_SX679_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "Panasonic KX-TU400EXC Teléfono para Mayores con Botón SOS y Cámara - Turquesa",
+            Imagen: "https://m.media-amazon.com/images/I/41NgNigFmbL._AC_SX679_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "HAMMER 6 LTE - Teléfono Resistente IP68 con Botón SOS y Batería de 2500mAh",
+            Imagen: "https://m.media-amazon.com/images/I/31eYwWm1X-L._AC_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "Smartphone resistente Ulefone Power Armor X11 Pro con batería de larga duración",
+            Imagen: "https://m.media-amazon.com/images/I/71EpROmfMYL._AC_SX569_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "Smartphone OPPO A80 5G con IA, 16GB RAM y 256GB de Almacenamiento",
+            Imagen: "https://m.media-amazon.com/images/I/51O1MIzu3oL._AC_SX679_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "Smartphone Xiaomi Redmi Note 12 4G con pantalla AMOLED y cámara triple de 50 MP",
+            Imagen: "https://m.media-amazon.com/images/I/61r7Asz11RL._AC_SX679_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "Smartphone SPC Zeus 4G Pro para Mayores con Botón SOS y Base de Carga",
+            Imagen: "https://m.media-amazon.com/images/I/6165IIIWIKL._AC_SX679_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "Motorola Moto G24 con cámara de 50 MP y batería de 5000 mAh",
+            Imagen: "https://m.media-amazon.com/images/I/61DrWxtwM5L._AC_SX569_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "Samsung Galaxy Tab A9+ con pantalla de 11 Pulgadas y 64 GB de almacenamiento",
+            Imagen: "https://m.media-amazon.com/images/I/41H+jR14XBL._AC_SX522_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "Samsung Galaxy Tab A9+ con pantalla de 11 Pulgadas y 128 GB de almacenamiento",
+            Imagen: "https://m.media-amazon.com/images/I/51tmXn9ZiEL._AC_SX569_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "Acer Iconia Tab M10 con pantalla WUXGA de 10,1 Pulgadas y funda incluida",
+            Imagen: "https://m.media-amazon.com/images/I/71XKX8Z5QBL._AC_SX679_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "Samsung Galaxy Tab A7 Lite con pantalla de 8,7 Pulgadas y 64 GB de almacenamiento",
+            Imagen: "https://m.media-amazon.com/images/I/81XG8dmudVS._AC_SX679_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "Xiaomi Pad 6 – Tablet WQHD+ de 11 Pulgadas con Snapdragon 870 y batería de 8840 mAh",
+            Imagen: "https://m.media-amazon.com/images/I/61CXBT8IXtL._AC_SX569_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "Tableta Lenovo Tab M10 Plus 3ª Gen - Pantalla 2K de 10,6 Pulgadas",
+            Imagen: "https://m.media-amazon.com/images/I/61qjsSp08xL._AC_SX569_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "Tableta PRITOM M10 de 10 Pulgadas - Diseño Versátil y Seguro para Toda la Familia",
+            Imagen: "https://m.media-amazon.com/images/I/61dCzmCA+AL._AC_SX569_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "PC de Escritorio Dell Optiplex 7050 SFF Reacondicionado con Intel i7 y 32GB RAM",
+            Imagen: "https://m.media-amazon.com/images/I/61FVIijQp2L._AC_SX425_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "Mini PC MeLE Quieter 4C N100 Sin Ventilador con RAM de 16GB y 512GB SSD",
+            Imagen: "https://m.media-amazon.com/images/I/81fw5t8k63L._AC_SX425_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "Mini PC MeLE Quieter2Q Sin Ventilador con 8GB RAM y 128GB Almacenamiento",
+            Imagen: "https://m.media-amazon.com/images/I/711gBTGdAQL._AC_SX425_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "Mini PC Stick MeLE PCG02 Sin Ventilador con 8GB RAM y 128GB Almacenamiento",
+            Imagen: "https://m.media-amazon.com/images/I/71QNeA0DbEL._AC_SX425_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "Mini PC HIGOLEPC Win 11 Pro con Pantalla IPS, 8GB RAM y 128GB EMMC",
+            Imagen: "https://m.media-amazon.com/images/I/613Znn6NwpL._AC_SY355_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "PC de Escritorio Dell para Juegos RGB con Intel i5 y NVIDIA GT 1030",
+            Imagen: "https://m.media-amazon.com/images/I/81U066HOzeL._AC_SX425_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "Laptop 2 en 1 Samsung Chromebook Plus con Pantalla Táctil FHD de 12.2 Pulgadas",
+            Imagen: "https://m.media-amazon.com/images/I/81k+w98hRSL._AC_SX425_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "HP Laptop 14 HD Microborde con Intel Celeron N4020 y Windows 11 Home",
+            Imagen: "https://m.media-amazon.com/images/I/815uX7wkOZS._AC_SY450_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "Laptop CHUWI HeroBook Pro 14.1 Pulgadas con Pantalla FHD 2K y SSD de 256GB",
+            Imagen: "https://m.media-amazon.com/images/I/61Iyy+2damL._AC_SX522_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "HP Laptop Ultraligera 14 Pulgadas con Intel Quad-Core y 8GB RAM",
+            Imagen: "https://m.media-amazon.com/images/I/81divYKpeTL._AC_SX679_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "Chromebook ASUS CX1, 14 Pulgadas, Plata Transparente",
+            Imagen: "https://m.media-amazon.com/images/I/71oYSGF0gVS._AC_SX425_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "PC de Escritorio Dell OptiPlex, Intel i5, 16 GB RAM, 2 TB HDD",
+            Imagen: "https://m.media-amazon.com/images/I/91Fb+Pcxe-L._AC_SX425_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "Chromebook Lenovo Slim 3, 14 Pulgadas, Azul Ligero, 2024",
+            Imagen: "https://m.media-amazon.com/images/I/61BRKJYlOSL._AC_SX425_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "Laptop ASUS Chromebook CM14, 14 Pulgadas, Gris Gravedad",
+            Imagen: "https://m.media-amazon.com/images/I/616aCuRtnpL._AC_SX425_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "Mini PC para Juegos AMD Ryzen 7, 16 GB RAM, 512 GB SSD, Windows 11 Pro",
+            Imagen: "https://m.media-amazon.com/images/I/71iYRkJS1pL._AC_SX425_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "Máquina de Sonido y Reloj Despertador con Luz Lunar Homedics",
+            Imagen: "https://m.media-amazon.com/images/I/618uiOYL1iL._AC_SX522_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "Juego de 2 Apliques de Pared de Níquel Cepillado con Vidrio Transparente",
+            Imagen: "https://m.media-amazon.com/images/I/612R-3BVz0L._AC_SX522_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "Aplique de Pared LED Negro de 10W IP65 para Interior y Exterior",
+            Imagen: "https://m.media-amazon.com/images/I/51QWpRMHmhL._AC_SX679_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "Lámpara de Pared Exterior IP54 de Aluminio Antioxidante ZUUKOLE",
+            Imagen: "https://m.media-amazon.com/images/I/51oa8XJesdL._AC_SX522_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "Juego de Fundas de Edredón de Algodón Ultrasuave Pure Era (3 Piezas)",
+            Imagen: "https://m.media-amazon.com/images/I/81mujzyfVVL._AC_SX522_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "Funda de Edredón King Verde Salvia con Pompones Andency (3 Piezas)",
+            Imagen: "https://m.media-amazon.com/images/I/81mgOruo3YL._AC_SX522_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "Juego de Funda de Edredón King Verde Salvia Claro CGK Unlimited (3 Piezas)",
+            Imagen: "https://m.media-amazon.com/images/I/81r4PlsVxmL._AC_SX522_.jpg",
+            Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
+        },
+        {
+            Nombre: "Mesa de Noche Furinno de Madera con Cajón, Color Espresso (2 Piezas)",
+            Imagen: "https://m.media-amazon.com/images/I/613ErDOuGFL._AC_SX522_.jpg",
             Enlace: "https://www.amazon.com/-/es/gp/help/customer/display.html?nodeId=GP7Z9RS868ZP5J9F"
         }
     ];
@@ -59,8 +294,8 @@ export default function ListProduct() {
 
     return (
         <div className="min-h-screen bg-gradient-to-r from-gray-900 via-gray-800 to-black text-white p-8">
-            <div className="container mx-auto mt-5">
-                <h1 className="text-4xl font-extrabold text-white mb-9 text-center">
+            <div className="container mx-auto">
+                <h1 className="text-4xl font-extrabold text-white mb-6 text-center">
                     Buscar Producto para Reportar
                 </h1>
 

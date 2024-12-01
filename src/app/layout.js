@@ -14,36 +14,36 @@ import Footer from "./home/Footer";
 
 // Metadata para sitio
 export const metadata = {
-  title: 'Con las mejores ofertas 🔥 | CASANsv',
+  title: 'Con las mejores ofertas 🔥 | CASAN Promo Center',
   description: 'Descubre la mejor selección en Smartphones, Tablets, Laptops de alto rendimiento, Hogar Inteligente, y más. También ofrecemos lo último en Moda masculina y femenina, Lencería, accesorios para el hogar, salud, mascotas, y vehículos. ¡Calidad, innovación y estilo en un solo lugar! 🛒✨',
-  keywords: 'ofertas, productos para revender, hogar inteligente, smartphones, laptops, moda masculina, moda femenina, accesorios para mascotas, salud y belleza, repuestos para autos, lencería femenina, lencería masculina, herramientas para el hogar, CASANsv, compras al por mayor, tienda para emprendedores',
+  keywords: 'ofertas, productos para revender, hogar inteligente, smartphones, laptops, moda masculina, moda femenina, accesorios para mascotas, salud y belleza, repuestos para autos, lencería femenina, lencería masculina, herramientas para el hogar, CASAN Promo Center, compras al por mayor, tienda para emprendedores',
   icons: {
-    icon: Data.home_icon,
+    icon: Data.favicon,
   },
   openGraph: {
-    title: 'Con las mejores ofertas 🔥 | CASANsv',
+    title: 'Con las mejores ofertas 🔥 | CASAN Promo Center',
     description: 'Descubre la mejor selección en Smartphones, Tablets, Laptops de alto rendimiento, Hogar Inteligente, y más. También ofrecemos lo último en Moda masculina y femenina, Lencería, accesorios para el hogar, salud, mascotas, y vehículos. ¡Calidad, innovación y estilo en un solo lugar! 🛒✨',
-    url: 'https://casansv.vercel.app/',
+    url: 'https://casanpromocenter.vercel.app/',
     type: 'website',
     images: [
       {
-        url: Data.home_icon,
+        url: Data.favicon,
         width: 1024,
         height: 1024,
-        alt: 'CASANsv'
+        alt: 'CASAN Promo Center'
       }
     ],
-    site_name: 'CASANsv'
+    site_name: 'CASAN Promo Center'
   },
   twitter: {
     card: 'summary_large_image',
-    site: '@casansv',
-    title: 'Con las mejores ofertas 🔥 | CASANsv',
+    site: '@CASAN Promo Center',
+    title: 'Con las mejores ofertas 🔥 | CASAN Promo Center',
     description: 'Descubre la mejor selección en Smartphones, Tablets, Laptops de alto rendimiento, Hogar Inteligente, y más. También ofrecemos lo último en Moda masculina y femenina, Lencería, accesorios para el hogar, salud, mascotas, y vehículos. ¡Calidad, innovación y estilo en un solo lugar! 🛒✨',
-    image: Data.home_icon
+    image: Data.favicon
   },
   robots: 'index, follow',
-  canonical: 'https://casansv.vercel.app/'
+  canonical: 'https://casanpromocenter.vercel.app/'
 }
 export default function RootLayout({ children }) {
   return (

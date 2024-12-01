@@ -98,7 +98,7 @@ export default function Footer() {
                 {/* Texto de pie de página */}
                 <div className="mt-12 text-center">
                     <p className="text-xs text-gray-500">
-                        Desarrollado con ❤️ por CASANsv
+                        Desarrollado con ❤️ por CASAN Promo Center
                     </p>
                 </div>
             </div>

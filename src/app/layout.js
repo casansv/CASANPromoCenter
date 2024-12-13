@@ -46,6 +46,9 @@ export const metadata = {
   },
   robots: "index, follow",
   canonical: "https://casanpromocenter.vercel.app/",
+  other: {
+    "google-site-verification":"V67iJIMQ4huEnaT_QKtv42c8xnYxlYhQRtjztO342wk",
+  }
 };
 
 export default function RootLayout({ children }) {
